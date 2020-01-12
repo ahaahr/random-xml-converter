@@ -9,8 +9,8 @@ import javax.xml.xpath.XPathConstants
 import javax.xml.xpath.XPathFactory
 
 fun main(args: Array<String>) {
-    println(getLotteryJson(readXml("lotteries/lotteries.xml")))
-    println(getCoinJson(readXml("lotteries/coins.xml")))
+    println(getLotteryJson(readXml("data/lotteries.xml")))
+    println(getCoinJson(readXml("data/coins.xml")))
 }
 
 fun readXml(filePath: String): Document {
