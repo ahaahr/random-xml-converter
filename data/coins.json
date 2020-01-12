@@ -1,0 +1,1312 @@
+[
+   {
+      "categoryName":"Antique Coins",
+      "categoryCode":null,
+      "obsolete":null,
+      "coins":[
+         {
+            "region":"Bactria Indo-Sythican Greek Kingdom",
+            "year":null,
+            "name":"Eucratides",
+            "denomination":"Silver Tetradrachm",
+            "collectible":true,
+            "imageObverse":"antique/eucratides/obverse.png",
+            "imageReverse":"antique/eucratides/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         },
+         {
+            "region":"Roman Empire",
+            "year":null,
+            "name":"Constatius II",
+            "denomination":"Silver Siliqua",
+            "collectible":true,
+            "imageObverse":"antique/constatius-ii/obverse.png",
+            "imageReverse":"antique/constatius-ii/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         },
+         {
+            "region":"Roman Empire",
+            "year":null,
+            "name":"Maximinus",
+            "denomination":"Bronze/Silver Tetradrachm",
+            "collectible":true,
+            "imageObverse":"antique/maximinus/obverse.png",
+            "imageReverse":"antique/maximinus/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         },
+         {
+            "region":"Roman Empire",
+            "year":null,
+            "name":"Aurelian",
+            "denomination":"Bronze Antoninianus",
+            "collectible":true,
+            "imageObverse":"antique/aurelian/obverse.png",
+            "imageReverse":"antique/aurelian/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         },
+         {
+            "region":"Roman Empire",
+            "year":null,
+            "name":"Valentinian II",
+            "denomination":"Silver Siliqua",
+            "collectible":true,
+            "imageObverse":"antique/valentinian-ii/obverse.png",
+            "imageReverse":"antique/valentinian-ii/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         },
+         {
+            "region":"Roman Empire",
+            "year":null,
+            "name":"Postumus",
+            "denomination":"Bronze/Silver Antoninianus",
+            "collectible":true,
+            "imageObverse":"antique/postumus/obverse.png",
+            "imageReverse":"antique/postumus/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         },
+         {
+            "region":"Roman Empire",
+            "year":null,
+            "name":"Antoninus Pius",
+            "denomination":"Bronze Sestertius",
+            "collectible":true,
+            "imageObverse":"antique/antonius-pius/obverse.png",
+            "imageReverse":"antique/antonius-pius/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         }
+      ]
+   },
+   {
+      "categoryName":"Challenge Coins",
+      "categoryCode":null,
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":"Rim of the Pacific Exercise (RIMPAC) 2010",
+            "denomination":"",
+            "collectible":true,
+            "imageObverse":"challenge/rimpac-2010/obverse.png",
+            "imageReverse":"challenge/rimpac-2010/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Mike Radin"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"U.S. Navy Carrier Airborne Early Warning Squadron Nightwolves (VAW-77)",
+            "denomination":"",
+            "collectible":true,
+            "imageObverse":"challenge/nightwolves/obverse.png",
+            "imageReverse":"challenge/nightwolves/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Mike Radin"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"U.S. Coast Guard Academy Class of 2009",
+            "denomination":"",
+            "collectible":true,
+            "imageObverse":"challenge/coast-guard-academy/obverse.png",
+            "imageReverse":"challenge/coast-guard-academy/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Mike Radin"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"U.S. Navy Construction Battalions (SeaBees)",
+            "denomination":"",
+            "collectible":true,
+            "imageObverse":"challenge/sea-bees/obverse.png",
+            "imageReverse":"challenge/sea-bees/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Mike Radin"
+         }
+      ]
+   },
+   {
+      "categoryName":"Novelty Coins",
+      "categoryCode":null,
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":"Todd Redden\u0027s Decision Maker Coin",
+            "denomination":"",
+            "collectible":false,
+            "imageObverse":"novelty/decision-maker/obverse.png",
+            "imageReverse":"novelty/decision-maker/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Todd Redden"
+         },
+         {
+            "region":null,
+            "year":2004,
+            "name":"American Voting Coin",
+            "denomination":"",
+            "collectible":false,
+            "imageObverse":"novelty/voting-2004/obverse.png",
+            "imageReverse":"novelty/voting-2004/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"John Condon, The Voting Coin Company"
+         },
+         {
+            "region":null,
+            "year":1922,
+            "name":"Two-Face\u0027s Coin from Batman",
+            "denomination":"",
+            "collectible":false,
+            "imageObverse":"novelty/two-face/obverse.png",
+            "imageReverse":"novelty/two-face/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Austrian Schilling",
+      "categoryCode":"ATS",
+      "obsolete":true,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Schilling",
+            "collectible":false,
+            "imageObverse":"ats/1-schilling/obverse.png",
+            "imageReverse":"ats/1-schilling/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Australian Dollars",
+      "categoryCode":"AUD",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"aud/1-dollar/obverse.png",
+            "imageReverse":"aud/1-dollar/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Ralphie Kabo and Hamish Mcpherson"
+         }
+      ]
+   },
+   {
+      "categoryName":"Brazilian Real",
+      "categoryCode":"BRL",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Real",
+            "collectible":false,
+            "imageObverse":"brl/1-real/obverse.png",
+            "imageReverse":"brl/1-real/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Roberto Amorim"
+         }
+      ]
+   },
+   {
+      "categoryName":"Canadian Dollars",
+      "categoryCode":"CAD",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":"Penny",
+            "denomination":"1¢",
+            "collectible":false,
+            "imageObverse":"cad/1-cent/obverse.png",
+            "imageReverse":"cad/1-cent/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Quarter",
+            "denomination":"25¢",
+            "collectible":false,
+            "imageObverse":"cad/25-cent/obverse.png",
+            "imageReverse":"cad/25-cent/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Loonie",
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"cad/1-dollar/obverse.png",
+            "imageReverse":"cad/1-dollar/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Toonie",
+            "denomination":"$2",
+            "collectible":false,
+            "imageObverse":"cad/2-dollar/obverse.png",
+            "imageReverse":"cad/2-dollar/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         }
+      ]
+   },
+   {
+      "categoryName":"Swiss Francs",
+      "categoryCode":"CHF",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Franc",
+            "collectible":false,
+            "imageObverse":"chf/1-franc/obverse.png",
+            "imageReverse":"chf/1-franc/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Angela Lorenz"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"2 Franc",
+            "collectible":false,
+            "imageObverse":"chf/2-franc/obverse.png",
+            "imageReverse":"chf/2-franc/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"René Meier"
+         }
+      ]
+   },
+   {
+      "categoryName":"Chinese Yuan Renminbi",
+      "categoryCode":"CNY",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":"Year of the Dragon",
+            "denomination":"150 Yuan",
+            "collectible":false,
+            "imageObverse":"cny/150-yuan/obverse.png",
+            "imageReverse":"cny/150-yuan/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Ste and Georgia"
+         }
+      ]
+   },
+   {
+      "categoryName":"Colombian Pesos",
+      "categoryCode":"COP",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"500 Pesos",
+            "collectible":false,
+            "imageObverse":"cop/500-pesos/obverse.png",
+            "imageReverse":"cop/500-pesos/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Leonidas Enrique de la Rosa"
+         }
+      ]
+   },
+   {
+      "categoryName":"Czech Koruny",
+      "categoryCode":"CZK",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"5 Koruna",
+            "collectible":false,
+            "imageObverse":"czk/5-kr/obverse.png",
+            "imageReverse":"czk/5-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"10 Koruna",
+            "collectible":false,
+            "imageObverse":"czk/10-kr/obverse.png",
+            "imageReverse":"czk/10-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"20 Koruna",
+            "collectible":false,
+            "imageObverse":"czk/20-kr/obverse.png",
+            "imageReverse":"czk/20-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Danish Kroner",
+      "categoryCode":"DKK",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"10 Krone",
+            "collectible":false,
+            "imageObverse":"dkk/10-kr/obverse.png",
+            "imageReverse":"dkk/10-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"East German Mark",
+      "categoryCode":"DDM",
+      "obsolete":true,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Mark",
+            "collectible":false,
+            "imageObverse":"ddm/1-mark/obverse.png",
+            "imageReverse":"ddm/1-mark/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"5 Mark",
+            "collectible":false,
+            "imageObverse":"ddm/5-mark/obverse.png",
+            "imageReverse":"ddm/5-mark/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Spanish Pesetas",
+      "categoryCode":"ESP",
+      "obsolete":true,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"5 Pesetas",
+            "collectible":false,
+            "imageObverse":"esp/5-ptas/obverse.png",
+            "imageReverse":"esp/5-ptas/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Euro",
+      "categoryCode":"EUR",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":"Austria",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-austria/obverse.png",
+            "imageReverse":"eur/1-euro-austria/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Belgium",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-belgium/obverse.png",
+            "imageReverse":"eur/1-euro-belgium/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Finland",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-finland/obverse.png",
+            "imageReverse":"eur/1-euro-finland/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"France",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-france/obverse.png",
+            "imageReverse":"eur/1-euro-france/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Germany",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-germany/obverse.png",
+            "imageReverse":"eur/1-euro-germany/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Greece",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-greece/obverse.png",
+            "imageReverse":"eur/1-euro-greece/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Ireland",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-ireland/obverse.png",
+            "imageReverse":"eur/1-euro-ireland/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Italy",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-italy/obverse.png",
+            "imageReverse":"eur/1-euro-italy/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Luxembourg",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-luxembourg/obverse.png",
+            "imageReverse":"eur/1-euro-luxembourg/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Netherlands",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-netherlands/obverse.png",
+            "imageReverse":"eur/1-euro-netherlands/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Portugal",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-portugal/obverse.png",
+            "imageReverse":"eur/1-euro-portugal/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Spain",
+            "year":null,
+            "name":null,
+            "denomination":"€1",
+            "collectible":false,
+            "imageObverse":"eur/1-euro-spain/obverse.png",
+            "imageReverse":"eur/1-euro-spain/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Austria",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-austria/obverse.png",
+            "imageReverse":"eur/2-euro-austria/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Belgium",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-belgium/obverse.png",
+            "imageReverse":"eur/2-euro-belgium/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Finland",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-finland/obverse.png",
+            "imageReverse":"eur/2-euro-finland/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"France",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-france/obverse.png",
+            "imageReverse":"eur/2-euro-france/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Germany",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-germany/obverse.png",
+            "imageReverse":"eur/2-euro-germany/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Greece",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-greece/obverse.png",
+            "imageReverse":"eur/2-euro-greece/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Ireland",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-ireland/obverse.png",
+            "imageReverse":"eur/2-euro-ireland/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Italy",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-italy/obverse.png",
+            "imageReverse":"eur/2-euro-italy/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Luxembourg",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-luxembourg/obverse.png",
+            "imageReverse":"eur/2-euro-luxembourg/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Netherlands",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-netherlands/obverse.png",
+            "imageReverse":"eur/2-euro-netherlands/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Portugal",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-portugal/obverse.png",
+            "imageReverse":"eur/2-euro-portugal/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":"Spain",
+            "year":null,
+            "name":null,
+            "denomination":"€2",
+            "collectible":false,
+            "imageObverse":"eur/2-euro-spain/obverse.png",
+            "imageReverse":"eur/2-euro-spain/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"British Pounds",
+      "categoryCode":"GBP",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"£1",
+            "collectible":false,
+            "imageObverse":"gbp/1-pound/obverse.png",
+            "imageReverse":"gbp/1-pound/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Mike Hall"
+         }
+      ]
+   },
+   {
+      "categoryName":"Croatian Kuna",
+      "categoryCode":"HRK",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Kuna",
+            "collectible":false,
+            "imageObverse":"hrk/1-kuna/obverse.png",
+            "imageReverse":"hrk/1-kuna/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Andrea Milanović"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"2 Kuna",
+            "collectible":false,
+            "imageObverse":"hrk/2-kuna/obverse.png",
+            "imageReverse":"hrk/2-kuna/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Andrea Milanović"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"5 Kuna",
+            "collectible":false,
+            "imageObverse":"hrk/5-kuna/obverse.png",
+            "imageReverse":"hrk/5-kuna/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Andrea Milanović"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"25 Kuna",
+            "collectible":false,
+            "imageObverse":"hrk/5-kuna/obverse.png",
+            "imageReverse":"hrk/5-kuna/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Hungarian Forint",
+      "categoryCode":"HUF",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"200 Forint",
+            "collectible":false,
+            "imageObverse":"huf/200-forint/obverse.png",
+            "imageReverse":"huf/200-forint/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Peter Dobra"
+         }
+      ]
+   },
+   {
+      "categoryName":"Israeli New Shekel",
+      "categoryCode":"ILS",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"10 New Shekel",
+            "collectible":false,
+            "imageObverse":"ils/10-new-shekalim/obverse.png",
+            "imageReverse":"ils/10-new-shekalim/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Dimitri Avrutin"
+         }
+      ]
+   },
+   {
+      "categoryName":"Indian Rupee",
+      "categoryCode":"INR",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Rupee",
+            "collectible":false,
+            "imageObverse":"inr/1-rupee/obverse.png",
+            "imageReverse":"inr/1-rupee/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Netherlands Guilders",
+      "categoryCode":"NLG",
+      "obsolete":true,
+      "coins":[
+         {
+            "region":null,
+            "year":1977,
+            "name":null,
+            "denomination":"1 Guilder",
+            "collectible":false,
+            "imageObverse":"nlg/1-guilder-1977/obverse.png",
+            "imageReverse":"nlg/1-guilder-1977/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":1982,
+            "name":null,
+            "denomination":"1 Guilder",
+            "collectible":false,
+            "imageObverse":"nlg/1-guilder-1982/obverse.png",
+            "imageReverse":"nlg/1-guilder-1982/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Rijksdaalder",
+            "denomination":"2.5 Guilders",
+            "collectible":false,
+            "imageObverse":"nlg/rijksdaalder/obverse.png",
+            "imageReverse":"nlg/rijksdaalder/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Angela Lorenz"
+         }
+      ]
+   },
+   {
+      "categoryName":"Norwegian Kroner",
+      "categoryCode":"NOK",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Krone",
+            "collectible":false,
+            "imageObverse":"nok/1-kr/obverse.png",
+            "imageReverse":"nok/1-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"5 Krone",
+            "collectible":false,
+            "imageObverse":"nok/5-kr/obverse.png",
+            "imageReverse":"nok/5-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"10 Krone",
+            "collectible":false,
+            "imageObverse":"nok/10-kr/obverse.png",
+            "imageReverse":"nok/10-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"20 Krone",
+            "collectible":false,
+            "imageObverse":"nok/20-kr/obverse.png",
+            "imageReverse":"nok/20-kr/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Polish Złoty",
+      "categoryCode":"PLN",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Złoty",
+            "collectible":false,
+            "imageObverse":"pln/1-zloty/obverse.png",
+            "imageReverse":"pln/1-zloty/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Michal Makowski"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"2 Złoty",
+            "collectible":false,
+            "imageObverse":"pln/2-zloty/obverse.png",
+            "imageReverse":"pln/2-zloty/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Michal Makowski"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"5 Złoty",
+            "collectible":false,
+            "imageObverse":"pln/5-zloty/obverse.png",
+            "imageReverse":"pln/5-zloty/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Michal Makowski"
+         }
+      ]
+   },
+   {
+      "categoryName":"Portuguese Escudos",
+      "categoryCode":"PTE",
+      "obsolete":true,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"5 Escudos",
+            "collectible":false,
+            "imageObverse":"pte/5-escudos/obverse.png",
+            "imageReverse":"pte/5-escudos/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":null
+         }
+      ]
+   },
+   {
+      "categoryName":"Romanian Leu",
+      "categoryCode":"RON",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"50 Bani",
+            "collectible":false,
+            "imageObverse":"ron/50-bani/obverse.png",
+            "imageReverse":"ron/50-bani/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Lucian Barbu"
+         }
+      ]
+   },
+   {
+      "categoryName":"Swedish Kronor",
+      "categoryCode":"SEK",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Krona",
+            "collectible":false,
+            "imageObverse":"sek/1-krona/obverse.png",
+            "imageReverse":"sek/1-krona/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Kricke Sundin"
+         }
+      ]
+   },
+   {
+      "categoryName":"Turkish Lira",
+      "categoryCode":"TRY",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"1 Lira",
+            "collectible":false,
+            "imageObverse":"try/1-lira/obverse.png",
+            "imageReverse":"try/1-lira/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Umut Eroğlu"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"Kuruş",
+            "collectible":false,
+            "imageObverse":"try/50-kurus/obverse.png",
+            "imageReverse":"try/50-kurus/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Umut Eroğlu"
+         }
+      ]
+   },
+   {
+      "categoryName":"United States Dollars",
+      "categoryCode":"USD",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":"Half-Cent",
+            "denomination":"0.5¢",
+            "collectible":false,
+            "imageObverse":"usd/half-cent/obverse.png",
+            "imageReverse":"usd/half-cent/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Wikipedia"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Penny",
+            "denomination":"1¢",
+            "collectible":false,
+            "imageObverse":"usd/1-cent/obverse.png",
+            "imageReverse":"usd/1-cent/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Nickel",
+            "denomination":"5¢",
+            "collectible":false,
+            "imageObverse":"usd/5-cent/obverse.png",
+            "imageReverse":"usd/5-cent/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Gar Travis"
+         },
+         {
+            "region":null,
+            "year":1913,
+            "name":"Liberty Head Nickel",
+            "denomination":"5¢",
+            "collectible":true,
+            "imageObverse":"usd/5-cent-1913-liberty-head-nickel/obverse.png",
+            "imageReverse":"usd/5-cent-1913-liberty-head-nickel/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Dwight Manley and Donn Pearlman"
+         },
+         {
+            "region":null,
+            "year":1935,
+            "name":"Buffalo Nickel",
+            "denomination":"5¢",
+            "collectible":true,
+            "imageObverse":"usd/5-cent-1935-buffalo-nickel/obverse.png",
+            "imageReverse":"usd/5-cent-1935-buffalo-nickel/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Dime",
+            "denomination":"10¢",
+            "collectible":false,
+            "imageObverse":"usd/10-cent/obverse.png",
+            "imageReverse":"usd/10-cent/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":"Connecticut",
+            "year":null,
+            "name":"Quarter",
+            "denomination":"25¢",
+            "collectible":false,
+            "imageObverse":"usd/25-cent-connecticut/obverse.png",
+            "imageReverse":"usd/25-cent-connecticut/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Tony Morse"
+         },
+         {
+            "region":"Delaware",
+            "year":null,
+            "name":"Quarter",
+            "denomination":"25¢",
+            "collectible":false,
+            "imageObverse":"usd/25-cent-delaware/obverse.png",
+            "imageReverse":"usd/25-cent-delaware/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Tony Morse"
+         },
+         {
+            "region":"Georgia",
+            "year":null,
+            "name":"Quarter",
+            "denomination":"25¢",
+            "collectible":false,
+            "imageObverse":"usd/25-cent-georgia/obverse.png",
+            "imageReverse":"usd/25-cent-georgia/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Tony Morse"
+         },
+         {
+            "region":"Maryland",
+            "year":null,
+            "name":"Quarter",
+            "denomination":"25¢",
+            "collectible":false,
+            "imageObverse":"usd/25-cent-maryland/obverse.png",
+            "imageReverse":"usd/25-cent-maryland/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Tony Morse"
+         },
+         {
+            "region":"New Jersey",
+            "year":null,
+            "name":"Quarter",
+            "denomination":"25¢",
+            "collectible":false,
+            "imageObverse":"usd/25-cent-new-jersey/obverse.png",
+            "imageReverse":"usd/25-cent-new-jersey/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Tony Morse"
+         },
+         {
+            "region":"Pennsylvania",
+            "year":null,
+            "name":"Quarter",
+            "denomination":"25¢",
+            "collectible":false,
+            "imageObverse":"usd/25-cent-pennsylvania/obverse.png",
+            "imageReverse":"usd/25-cent-pennsylvania/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Tony Morse"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Half Dollar",
+            "denomination":"50¢",
+            "collectible":false,
+            "imageObverse":"usd/50-cent/obverse.png",
+            "imageReverse":"usd/50-cent/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"John Adams",
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"usd/1-dollar-adams/obverse.png",
+            "imageReverse":"usd/1-dollar-adams/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Thomas Jefferson",
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"usd/1-dollar-jefferson/obverse.png",
+            "imageReverse":"usd/1-dollar-jefferson/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"James Madison",
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"usd/1-dollar-madison/obverse.png",
+            "imageReverse":"usd/1-dollar-madison/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"George Washington",
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"usd/1-dollar-washington/obverse.png",
+            "imageReverse":"usd/1-dollar-washington/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"Susan B. Anthony",
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"usd/1-dollar-anthony/obverse.png",
+            "imageReverse":"usd/1-dollar-anthony/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         },
+         {
+            "region":null,
+            "year":null,
+            "name":"American Buffalo 24-Karat Gold Coin",
+            "denomination":"$50",
+            "collectible":true,
+            "imageObverse":"usd/50-dollar-gold-buffalo/obverse.png",
+            "imageReverse":"usd/50-dollar-gold-buffalo/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Carl Cornealy"
+         }
+      ]
+   },
+   {
+      "categoryName":"East Caribbean Dollars",
+      "categoryCode":"XCD",
+      "obsolete":null,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"$1",
+            "collectible":false,
+            "imageObverse":"xcd/1-dollar/obverse.png",
+            "imageReverse":"xcd/1-dollar/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Karl Eklund and Alwi Wijaya"
+         }
+      ]
+   },
+   {
+      "categoryName":"Yugoslavian Dinar",
+      "categoryCode":"YUD",
+      "obsolete":true,
+      "coins":[
+         {
+            "region":null,
+            "year":null,
+            "name":null,
+            "denomination":"20 Para",
+            "collectible":false,
+            "imageObverse":"yud/20-para/obverse.png",
+            "imageReverse":"yud/20-para/reverse.png",
+            "acknowledgementUrl":null,
+            "acknowledgementText":"Joshua Holman"
+         }
+      ]
+   }
+]
