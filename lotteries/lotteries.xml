@@ -1,0 +1,4014 @@
+<lotteries>
+
+  <lottery>
+    <name>EuroMillions</name>
+    <configuration>5x50.2x12</configuration>
+    <match>5.2</match>
+    <country>Austria</country>
+    <code>AT</code>
+    <country>Belgium</country>
+    <code>BE</code>
+    <country>France</country>
+    <code>FR</code>
+    <country>Ireland</country>
+    <code>IE</code>
+    <country>Luxembourg</country>
+    <code>LU</code>
+    <country>Portugal</country>
+    <code>PT</code>
+    <country>Spain</country>
+    <code>ES</code>
+    <country>Switzerland</country>
+    <code>CH</code>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <affiliate>http://go.icelotto.com/visit/?r=1&amp;bta=21276&amp;utm_campaign=RandomEM&amp;landingpage=http%3A//www.icelotto.com/en/lottery-ticket/EuroMillions/</affiliate>
+  </lottery>
+
+  <lottery>
+    <name>EuroMillions HotPicks - Pick 1</name>
+    <configuration>1x50.0x0</configuration>
+    <match>1.0</match>
+    <country>Austria</country>
+    <code>AT</code>
+    <country>Belgium</country>
+    <code>BE</code>
+    <country>France</country>
+    <code>FR</code>
+    <country>Ireland</country>
+    <code>IE</code>
+    <country>Luxembourg</country>
+    <code>LU</code>
+    <country>Portugal</country>
+    <code>PT</code>
+    <country>Spain</country>
+    <code>ES</code>
+    <country>Switzerland</country>
+    <code>CH</code>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.euro-millions.com/hotpicks</url>
+  </lottery>
+
+  <lottery>
+    <name>EuroMillions HotPicks - Pick 2</name>
+    <configuration>2x50.0x0</configuration>
+    <match>2.0</match>
+    <country>Austria</country>
+    <code>AT</code>
+    <country>Belgium</country>
+    <code>BE</code>
+    <country>France</country>
+    <code>FR</code>
+    <country>Ireland</country>
+    <code>IE</code>
+    <country>Luxembourg</country>
+    <code>LU</code>
+    <country>Portugal</country>
+    <code>PT</code>
+    <country>Spain</country>
+    <code>ES</code>
+    <country>Switzerland</country>
+    <code>CH</code>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.euro-millions.com/hotpicks</url>
+  </lottery>
+
+  <lottery>
+    <name>EuroMillions HotPicks - Pick 3</name>
+    <configuration>3x50.0x0</configuration>
+    <match>3.0</match>
+    <country>Austria</country>
+    <code>AT</code>
+    <country>Belgium</country>
+    <code>BE</code>
+    <country>France</country>
+    <code>FR</code>
+    <country>Ireland</country>
+    <code>IE</code>
+    <country>Luxembourg</country>
+    <code>LU</code>
+    <country>Portugal</country>
+    <code>PT</code>
+    <country>Spain</country>
+    <code>ES</code>
+    <country>Switzerland</country>
+    <code>CH</code>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.euro-millions.com/hotpicks</url>
+  </lottery>
+
+  <lottery>
+    <name>EuroMillions HotPicks - Pick 4</name>
+    <configuration>4x50.0x0</configuration>
+    <match>4.0</match>
+    <country>Austria</country>
+    <code>AT</code>
+    <country>Belgium</country>
+    <code>BE</code>
+    <country>France</country>
+    <code>FR</code>
+    <country>Ireland</country>
+    <code>IE</code>
+    <country>Luxembourg</country>
+    <code>LU</code>
+    <country>Portugal</country>
+    <code>PT</code>
+    <country>Spain</country>
+    <code>ES</code>
+    <country>Switzerland</country>
+    <code>CH</code>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.euro-millions.com/hotpicks</url>
+  </lottery>
+
+  <lottery>
+    <name>EuroMillions HotPicks - Pick 5</name>
+    <configuration>5x50.0x0</configuration>
+    <match>5.0</match>
+    <country>Austria</country>
+    <code>AT</code>
+    <country>Belgium</country>
+    <code>BE</code>
+    <country>France</country>
+    <code>FR</code>
+    <country>Ireland</country>
+    <code>IE</code>
+    <country>Luxembourg</country>
+    <code>LU</code>
+    <country>Portugal</country>
+    <code>PT</code>
+    <country>Spain</country>
+    <code>ES</code>
+    <country>Switzerland</country>
+    <code>CH</code>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.euro-millions.com/hotpicks</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Austria</country>
+    <code>AT</code>
+    <url>http://www.lotterien.at/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Gold Lotto (Qld)</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  1</name>
+    <configuration>1x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  2</name>
+    <configuration>2x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  3</name>
+    <configuration>3x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  4</name>
+    <configuration>4x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  5</name>
+    <configuration>5x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  6</name>
+    <configuration>6x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  7</name>
+    <configuration>7x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  8</name>
+    <configuration>8x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  9</name>
+    <configuration>9x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick 10</name>
+    <configuration>10x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick 11</name>
+    <configuration>11x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick 12</name>
+    <configuration>12x80.0x0</configuration>
+    <match>0.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <country>Romania</country>
+    <code>RO</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Ukraine</country>
+    <code>UA</code>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Monday Lotto</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>The Pools</name>
+    <configuration>6x38.0x0</configuration>
+    <match>6.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>Saturday Lotto (NSW, WA)</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>Set for Life</name>
+    <configuration>8x37.0x0</configuration>
+    <match>8.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+    <url>http://www.setforlifelottery.org/</url>
+  </lottery>
+
+  <lottery>
+    <name>Tattslotto (Vic, Tas, ACT, NT)</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>Wednesday Lotto</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>Oz Lotto</name>
+    <configuration>7x45.0x0</configuration>
+    <match>7.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>Powerball</name>
+    <configuration>7x35.1x20</configuration>
+    <match>7.1</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+  <lottery>
+    <name>X Lotto (SA)</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Australia</country>
+    <code>AU</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Double Draw - 1 Spot</name>
+    <configuration>1x30.0x0</configuration>
+    <match>1.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Double Draw - 2 Spots</name>
+    <configuration>2x30.0x0</configuration>
+    <match>2.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Double Draw - 3 Spots</name>
+    <configuration>3x30.0x0</configuration>
+    <match>3.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Double Draw - 4 Spots</name>
+    <configuration>4x30.0x0</configuration>
+    <match>4.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Double Draw - 5 Spots</name>
+    <configuration>5x30.0x0</configuration>
+    <match>5.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Double Draw - 6 Spots</name>
+    <configuration>6x30.0x0</configuration>
+    <match>6.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Double Draw - 7 Spots</name>
+    <configuration>7x30.0x0</configuration>
+    <match>7.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Doubles</name>
+    <configuration>2x26.2x26</configuration>
+    <match>2.2</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6</name>
+    <configuration>6x33.0x0</configuration>
+    <match>6.0</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+  <lottery>
+    <name>Super Lotto</name>
+    <configuration>5x35.1x10</configuration>
+    <match>5.1</match>
+    <country>Barbados</country>
+    <code>BB</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Belgium</country>
+    <code>BE</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Toto 2 - 5/35</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>Bulgaria</country>
+    <code>BG</code>
+    <url>http://www.toto.bg/</url>
+  </lottery>
+
+  <lottery>
+    <name>Toto 2 - 6/42</name>
+    <configuration>6x42.0x0</configuration>
+    <match>6.0</match>
+    <country>Bulgaria</country>
+    <code>BG</code>
+    <url>http://www.toto.bg/</url>
+  </lottery>
+
+  <lottery>
+    <name>Toto 2 - 6/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Bulgaria</country>
+    <code>BG</code>
+    <url>http://www.toto.bg/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Dia de Sorte -  7 números</name>
+    <configuration>7x31.1x12</configuration>
+    <match>7.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Dia de Sorte -  8 números</name>
+    <configuration>8x31.1x12</configuration>
+    <match>8.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Dia de Sorte -  9 números</name>
+    <configuration>9x31.1x12</configuration>
+    <match>9.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Dia de Sorte - 10 números</name>
+    <configuration>10x31.1x12</configuration>
+    <match>10.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+    <lottery>
+    <name>Dia de Sorte - 11 números</name>
+    <configuration>11x31.1x12</configuration>
+    <match>11.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+    <lottery>
+    <name>Dia de Sorte - 12 números</name>
+    <configuration>12x31.1x12</configuration>
+    <match>12.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+    <lottery>
+    <name>Dia de Sorte - 13 números</name>
+    <configuration>13x31.1x12</configuration>
+    <match>13.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+    <lottery>
+    <name>Dia de Sorte - 14 números</name>
+    <configuration>14x31.1x12</configuration>
+    <match>14.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+    <lottery>
+    <name>Dia de Sorte - 15 números</name>
+    <configuration>15x31.1x12</configuration>
+    <match>15.1</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Dupla Sena</name>
+    <configuration>6x50.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Lotof&#225;cil - 15 números</name>
+    <configuration>15x25.0x0</configuration>
+    <match>15.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://www1.caixa.gov.br/loterias/loterias/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotof&#225;cil - 16 números</name>
+    <configuration>16x25.0x0</configuration>
+    <match>16.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://www1.caixa.gov.br/loterias/loterias/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotof&#225;cil - 17 números</name>
+    <configuration>17x25.0x0</configuration>
+    <match>17.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://www1.caixa.gov.br/loterias/loterias/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotof&#225;cil - 18 números</name>
+    <configuration>18x25.0x0</configuration>
+    <match>18.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://www1.caixa.gov.br/loterias/loterias/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotomania</name>
+    <configuration>50x100.0x0</configuration>
+    <match>5.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://g1.globo.com/loterias/lotomania.html</url>
+    <note>Please consider "100" as "00"</note>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena -  6 números</name>
+    <configuration>6x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena -  7 números</name>
+    <configuration>7x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena -  8 números</name>
+    <configuration>8x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena -  9 números</name>
+    <configuration>9x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 10 números</name>
+    <configuration>10x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 11 números</name>
+    <configuration>11x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 12 números</name>
+    <configuration>12x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 13 números</name>
+    <configuration>13x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 14 números</name>
+    <configuration>14x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 15 números</name>
+    <configuration>15x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 16 números</name>
+    <configuration>16x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 17 números</name>
+    <configuration>17x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 18 números</name>
+    <configuration>18x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 19 números</name>
+    <configuration>19x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega-Sena - 20 números</name>
+    <configuration>20x60.0x0</configuration>
+    <match>6.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/</url>
+  </lottery>
+
+  <lottery>
+    <name>Quina</name>
+    <configuration>5x80.0x0</configuration>
+    <match>5.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url>http://www1.caixa.gov.br/loterias/loterias/</url>
+  </lottery>
+
+  <lottery>
+    <name>Timemania</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>Brazil</country>
+    <code>BR</code>
+    <url></url>
+  </lottery>
+
+
+  <lottery>
+    <name>Atlantic 6/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>BC/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Grand</name>
+    <configuration>5x49.1x7</configuration>
+    <match>5.1</match>
+    <country>Canada</country>
+    <code>CA</code>
+    <url>http://www.olg.ca/lotteries/games/howtoplay.do?game=dailygrand</url>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  2 Numbers</name>
+    <configuration>2x70.0x0</configuration>
+    <match>2.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  3 Numbers</name>
+    <configuration>3x70.0x0</configuration>
+    <match>3.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  4 Numbers</name>
+    <configuration>4x70.0x0</configuration>
+    <match>4.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  5 Numbers</name>
+    <configuration>5x70.0x0</configuration>
+    <match>5.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  6 Numbers</name>
+    <configuration>6x70.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  7 Numbers</name>
+    <configuration>7x70.0x0</configuration>
+    <match>7.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  8 Numbers</name>
+    <configuration>8x70.0x0</configuration>
+    <match>8.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno -  9 Numbers</name>
+    <configuration>9x70.0x0</configuration>
+    <match>9.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Daily Keno - 10 Numbers</name>
+    <configuration>10x70.0x0</configuration>
+    <match>10.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Hit or Miss</name>
+    <configuration>12x24.0x0</configuration>
+    <match>12.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+    <url>https://lottery.olg.ca/en-ca/hit-or-miss/about-hit-or-miss</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto 6/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+    <affiliate>http://go.icelotto.com/visit/?r=1&amp;bta=21276&amp;utm_campaign=RandomEJ&amp;landingpage=http%3A//www.icelotto.com/en/lottery-ticket/Lotto649/</affiliate>
+  </lottery>
+
+  <lottery>
+    <name>Lotto Max</name>
+    <configuration>7x50.0x0</configuration>
+    <match>7.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Ontario 49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Ontario Lottario</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Qu&#233;bec 49 Lottery</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Saskatchewan Western 649</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+  </lottery>
+
+  <lottery>
+    <name>Saskatchewan Western Max</name>
+    <configuration>7x50.0x0</configuration>
+    <match>7.0</match>
+    <country>Canada</country>
+    <code>CA</code>
+    <url>https://www.sasklotteries.ca/games/western-max.htm</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x42.1x6</configuration>
+    <match>6.1</match>
+    <country>Switzerland</country>
+    <code>CH</code>
+    <url>http://www.swisslotto.ch/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Kino</name>
+    <configuration>14x25.0x0</configuration>
+    <match>14.0</match>
+    <country>Chile</country>
+    <code>CL</code>
+  </lottery>
+
+  <lottery>
+    <name>Loto</name>
+    <configuration>6x41.0x0</configuration>
+    <match>6.0</match>
+    <country>Chile</country>
+    <code>CL</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Sports Lottery (&#36229;&#32423;&#22823;&#20048;&#36879;)</name>
+    <configuration>5x35.2x12</configuration>
+    <match>5.2</match>
+    <country>China</country>
+    <code>CN</code>
+  </lottery>
+
+  <lottery>
+    <name>Sports Lottery (22&#36873;5)</name>
+    <configuration>5x22.0x0</configuration>
+    <match>5.0</match>
+    <country>China</country>
+    <code>CN</code>
+  </lottery>
+
+  <lottery>
+    <name>Sports Lottery (31&#36873;7)</name>
+    <configuration>7x31.0x0</configuration>
+    <match>7.0</match>
+    <country>China</country>
+    <code>CN</code>
+  </lottery>
+
+  <lottery>
+    <name>Welfare Lottery (&#21452;&#33394;&#29699;)</name>
+    <configuration>6x33.1x16</configuration>
+    <match>6.1</match>
+    <country>China</country>
+    <code>CN</code>
+  </lottery>
+
+  <lottery>
+    <name>Welfare Lottery (&#19971;&#20048;&#24425;)</name>
+    <configuration>7x30.0x0</configuration>
+    <match>7.0</match>
+    <country>China</country>
+    <code>CN</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Baloto</name>
+    <configuration>5x43.1x16</configuration>
+    <match>5.1</match>
+    <country>Colombia</country>
+    <code>CO</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Chance Korunka Sestka</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Chance Korunka na 5</name>
+    <configuration>5x49.0x0</configuration>
+    <match>5.0</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Chance Korunka na 4</name>
+    <configuration>4x49.0x0</configuration>
+    <match>4.0</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Chance Korunka na 3</name>
+    <configuration>3x49.0x0</configuration>
+    <match>3.0</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Fortuna Fofr</name>
+    <configuration>8x25.1x4</configuration>
+    <match>8.1</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+    <note>1=Black, 2=White</note>
+  </lottery>
+
+  <lottery>
+    <name>Fortuna Loto</name>
+    <configuration>6x49.1x2</configuration>
+    <match>6.1</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+    <note>1=Yellow, 2=Green, 3=Blue, 4=Red</note>
+  </lottery>
+
+  <lottery>
+    <name>Fortuna Trojka</name>
+    <configuration>3x21.0x0</configuration>
+    <match>3.0</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Sazka Euromiliony</name>
+    <configuration>7x35.1x5</configuration>
+    <match>7.1</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Sazka Sportka</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto 6/49</name>
+    <configuration>6x49.1x10</configuration>
+    <match>6.1</match>
+    <country>Germany</country>
+    <code>DE</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Eurojackpot</name>
+    <configuration>5x50.2x10</configuration>
+    <match>5.2</match>
+    <country>Croatia</country>
+    <code>HR</code>
+    <country>Czech Republic</country>
+    <code>CZ</code>
+    <country>Denmark</country>
+    <code>DK</code>
+    <country>Estonia</country>
+    <code>EE</code>
+    <country>Finland</country>
+    <code>FI</code>
+    <country>Germany</country>
+    <code>DE</code>
+    <country>Iceland</country>
+    <code>IS</code>
+    <country>Italy</country>
+    <code>IT</code>
+    <country>Latvia</country>
+    <code>LV</code>
+    <country>Lithuania</country>
+    <code>LT</code>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <country>Norway</country>
+    <code>NO</code>
+    <country>Poland</country>
+    <code>PL</code>
+    <country>Slovakia</country>
+    <code>SK</code>
+    <country>Slovenia</country>
+    <code>SI</code>
+    <country>Spain</country>
+    <code>ES</code>
+    <country>Sweden</country>
+    <code>SE</code>
+    <affiliate>http://go.icelotto.com/visit/?r=1&amp;bta=21276&amp;utm_campaign=RandomEJ&amp;landingpage=http%3A//www.icelotto.com/en/lottery-ticket/EuroJackpot/</affiliate>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>7x36.0x0</configuration>
+    <match>7.0</match>
+    <country>Denmark</country>
+    <code>DK</code>
+  </lottery>
+
+  <lottery>
+    <name>Vikinglotto</name>
+    <configuration>6x48.1x8</configuration>
+    <match>6.1</match>
+    <country>Denmark</country>
+    <code>DK</code>
+    <country>Estonia</country>
+    <code>EE</code>
+    <country>Finland</country>
+    <code>FI</code>
+    <country>Iceland</country>
+    <code>IS</code>
+    <country>Norway</country>
+    <code>NO</code>
+    <country>Latvia</country>
+    <code>LV</code>
+    <country>Lithuania</country>
+    <code>LT</code>
+    <country>Sweden</country>
+    <code>SE</code>
+    <country>Slovenia</country>
+    <code>SI</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Play 4</name>
+    <configuration>4x22.0x0</configuration>
+    <match>4.0</match>
+    <country>Dominica</country>
+    <code>DM</code>
+    <url>http://www.domlottery.com/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Loto</name>
+    <configuration>6x38.0x0</configuration>
+    <match>6.0</match>
+    <country>Dominican Republic</country>
+    <code>DO</code>
+  </lottery>
+
+  <lottery>
+    <name>Lotomás</name>
+    <configuration>6x38.1x10</configuration>
+    <match>6.1</match>
+    <country>Dominican Republic</country>
+    <code>DO</code>
+  </lottery>
+
+  <lottery>
+    <name>Loto Pool</name>
+    <configuration>5x31.0x0</configuration>
+    <match>5.0</match>
+    <country>Dominican Republic</country>
+    <code>DO</code>
+  </lottery>
+
+  <lottery>
+    <name>Super Loto LEIDSA</name>
+    <configuration>6x53.0x0</configuration>
+    <match>6.0</match>
+    <country>Dominican Republic</country>
+    <code>DO</code>
+  </lottery>
+
+
+  <lottery>
+    <name>BonoLoto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Spain</country>
+    <code>ES</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Daily 6/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Spain</country>
+    <code>ES</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>El Gordo de la Primitiva</name>
+    <configuration>5x54.1x10</configuration>
+    <match>5.1</match>
+    <country>Spain</country>
+    <code>ES</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>La Primitiva</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Spain</country>
+    <code>ES</code>
+    <url></url>
+    <affiliate>http://go.icelotto.com/visit/?r=1&amp;bta=21276&amp;utm_campaign=RandomEJ&amp;landingpage=http%3A//www.icelotto.com/en/lottery-ticket/LaPrimitiva/</affiliate>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>7x40.0x0</configuration>
+    <match>7.0</match>
+    <country>Finland</country>
+    <code>FI</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Amigo</name>
+    <configuration>7x28.0x0</configuration>
+    <match>7.0</match>
+    <country>France</country>
+    <code>FR</code>
+    <url>https://www.fdj.fr/jeux-de-tirage/amigo</url>
+  </lottery>
+
+  <lottery>
+    <name>Loto</name>
+    <configuration>5x49.1x10</configuration>
+    <match>5.1</match>
+    <country>France</country>
+    <code>FR</code>
+    <url></url>
+  </lottery>
+
+
+  <lottery>
+    <name>49's Lunchtime or Teatime</name>
+    <configuration>6x49.1x49</configuration>
+    <match>6.1</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>http://www.49s.co.uk/</url>
+  </lottery>
+
+  <lottery>
+    <name>Health Lottery</name>
+    <configuration>5x50.0x0</configuration>
+    <match>5.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.healthlottery.co.uk/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto HotPicks - Pick 1</name>
+    <configuration>1x59.0x0</configuration>
+    <match>1.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>http://www.national-lottery.co.uk/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto HotPicks - Pick 2</name>
+    <configuration>2x59.0x0</configuration>
+    <match>2.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>http://www.national-lottery.co.uk/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto HotPicks - Pick 3</name>
+    <configuration>3x59.0x0</configuration>
+    <match>3.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>http://www.national-lottery.co.uk/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto HotPicks - Pick 4</name>
+    <configuration>4x59.0x0</configuration>
+    <match>4.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>http://www.national-lottery.co.uk/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto HotPicks - Pick 5</name>
+    <configuration>5x59.0x0</configuration>
+    <match>5.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>http://www.national-lottery.co.uk/</url>
+  </lottery>
+
+  <lottery>
+    <name>National Lottery</name>
+    <configuration>6x59.0x0</configuration>
+    <match>6.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+  </lottery>
+
+  <lottery>
+    <name>Thunderball</name>
+    <configuration>5x39.1x14</configuration>
+    <match>5.1</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+  </lottery>
+
+  <lottery>
+    <name>Set for Life</name>
+    <configuration>5x47.1x10</configuration>
+    <match>5.1</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.national-lottery.co.uk/set-for-life</url>
+  </lottery>
+
+  <lottery>
+    <name>Scottish Children's Lottery</name>
+    <configuration>5x49.0x0</configuration>
+    <match>5.0</match>
+    <country>United Kingdom</country>
+    <code>GB</code>
+    <url>https://www.scottishchildrenslottery.com</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>5x34.0x0</configuration>
+    <match>5.0</match>
+    <country>Grenada, Carriacou and Petite Martinique</country>
+    <code>GD</code>
+    <url>http://www.nla.gd/</url>
+  </lottery>
+
+  <lottery>
+    <name>Play Way</name>
+    <configuration>1x36.0x0</configuration>
+    <match>1.0</match>
+    <country>Grenada, Carriacou and Petite Martinique</country>
+    <code>GD</code>
+    <url>http://www.nla.gd/</url>
+  </lottery>
+
+  <lottery>
+    <name>Super 6</name>
+    <configuration>6x28.0x0</configuration>
+    <match>6.0</match>
+    <country>Grenada, Carriacou and Petite Martinique</country>
+    <code>GD</code>
+    <url>http://www.nla.gd/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Ghana Lotto 5/90</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Ghana</country>
+    <code>GH</code>
+    <url>http://www.nla.com.gh/</url>
+  </lottery>
+
+  <lottery>
+    <name>Friday Bonanza</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Ghana</country>
+    <code>GH</code>
+    <url>http://www.nla.com.gh/</url>
+  </lottery>
+
+  <lottery>
+    <name>Fortune Thursday</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Ghana</country>
+    <code>GH</code>
+    <url>http://www.nla.com.gh/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Tuesday</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Ghana</country>
+    <code>GH</code>
+    <url>http://www.nla.com.gh/</url>
+  </lottery>
+
+  <lottery>
+    <name>Midweek Lotto</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Ghana</country>
+    <code>GH</code>
+    <url>http://www.nla.com.gh/</url>
+  </lottery>
+
+  <lottery>
+    <name>Monday Special</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Ghana</country>
+    <code>GH</code>
+    <url>http://www.nla.com.gh/</url>
+  </lottery>
+
+  <lottery>
+    <name>National Weekly Lotto</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Ghana</country>
+    <code>GH</code>
+    <url>http://www.nla.com.gh/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Bana Belebele</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Guinea</country>
+    <code>GN</code>
+    <url>http://www.guineegames.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Kif Kif</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Guinea</country>
+    <code>GN</code>
+    <url>http://www.guineegames.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Terre à Terre</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Guinea</country>
+    <code>GN</code>
+    <url>http://www.guineegames.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Ticotac</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Guinea</country>
+    <code>GN</code>
+    <url>http://www.guineegames.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Wassa Wassa</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Guinea</country>
+    <code>GN</code>
+    <url>http://www.guineegames.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Welli Welli</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Guinea</country>
+    <code>GN</code>
+    <url>http://www.guineegames.com/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Extra 5</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>Greece</country>
+    <code>GR</code>
+    <url>http://www.opap.gr/</url>
+  </lottery>
+
+  <lottery>
+    <name>Joker</name>
+    <configuration>5x45.1x20</configuration>
+    <match>5.1</match>
+    <country>Greece</country>
+    <code>GR</code>
+    <url>http://www.opap.gr/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Greece</country>
+    <code>GR</code>
+    <url>http://www.opap.gr/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Hong Kong Jockey Club's Mark Six Lottery</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Hong Kong</country>
+    <code>HK</code>
+  </lottery>
+
+  <lottery>
+    <name>Hong Kong Toto 6/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Hong Kong</country>
+    <code>HK</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Loto 6/45</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Croatia</country>
+    <code>HR</code>
+    <url>https://www.lutrija.hr/</url>
+  </lottery>
+
+  <lottery>
+    <name>Loto 7</name>
+    <configuration>7x35.0x0</configuration>
+    <match>7.0</match>
+    <country>Croatia</country>
+    <code>HR</code>
+    <url>https://www.lutrija.hr/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>&#214;t&#246;slott&#243;</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Hungary</country>
+    <code>HU</code>
+  </lottery>
+
+  <lottery>
+    <name>Hatoslott&#243;</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Hungary</country>
+    <code>HU</code>
+  </lottery>
+
+  <lottery>
+    <name>Skandin&#225;v Lott&#243;</name>
+    <configuration>7x35.0x0</configuration>
+    <match>7.0</match>
+    <country>Hungary</country>
+    <code>HU</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Daily Million</name>
+    <configuration>6x39.0x0</configuration>
+    <match>6.0</match>
+    <country>Ireland</country>
+    <code>IE</code>
+    <url>http://www.lotto.ie/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x47.0x0</configuration>
+    <match>6.0</match>
+    <country>Ireland</country>
+    <code>IE</code>
+    <url>http://www.lotto.ie/Games/Lotto/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>777</name>
+    <configuration>7x70.0x0</configuration>
+    <match>7.0</match>
+    <country>Israel</country>
+    <code>IL</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>New Lotto</name>
+    <configuration>6x37.1x7</configuration>
+    <match>6.1</match>
+    <country>Israel</country>
+    <code>IL</code>
+    <url>http://www.pais.co.il/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Playwin Easy Lotto</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>India</country>
+    <code>IN</code>
+  </lottery>
+
+  <lottery>
+    <name>Playwin Fast Digit Lottery</name>
+    <configuration>5x31.0x0</configuration>
+    <match>5.0</match>
+    <country>India</country>
+    <code>IN</code>
+  </lottery>
+
+  <lottery>
+    <name>Playwin Super Lotto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>India</country>
+    <code>IN</code>
+  </lottery>
+
+  <lottery>
+    <name>Playwin Thunderball</name>
+    <configuration>5x42.1x15</configuration>
+    <match>5.1</match>
+    <country>India</country>
+    <code>IN</code>
+  </lottery>
+
+
+  <lottery>
+    <name>10eLotto</name>
+    <configuration>10x90.0x0</configuration>
+    <match>10.0</match>
+    <country>Italy</country>
+    <code>IT</code>
+    <affiliate></affiliate>
+  </lottery>
+
+  <lottery>
+    <name>MillionDay</name>
+    <configuration>5x55.0x0</configuration>
+    <match>5.0</match>
+    <country>Italy</country>
+    <code>IT</code>
+    <affiliate></affiliate>
+    <url>https://www.lottomaticaitalia.it/it/prodotti/millionday/come-dove-giocare/scopri-il-gioco</url>
+  </lottery>
+
+  <lottery>
+    <name>SuperEna Max</name>
+    <configuration>6x90.0x0</configuration>
+    <match>6.0</match>
+    <country>Italy</country>
+    <code>IT</code>
+    <affiliate></affiliate>
+  </lottery>
+
+  <lottery>
+    <name>SuperEnaLotto</name>
+    <configuration>6x90.0x0</configuration>
+    <match>6.0</match>
+    <country>Italy</country>
+    <code>IT</code>
+    <affiliate>http://go.icelotto.com/visit/?r=1&amp;bta=21276&amp;utm_campaign=RandomEJ&amp;landingpage=http%3A//www.icelotto.com/en/lottery-ticket/SuperEnaLotto/</affiliate>
+  </lottery>
+
+  <lottery>
+    <name>SuperEnalotto + SuperStar</name>
+    <configuration>6x90.1x90</configuration>
+    <match>6.0</match>
+    <country>Italy</country>
+    <code>IT</code>
+  </lottery>
+
+  <lottery>
+    <name>Win For Life</name>
+    <configuration>10x20.0x0</configuration>
+    <match>10.0</match>
+    <country>Italy</country>
+    <code>IT</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Lucky 5</name>
+    <configuration>5x26.0x0</configuration>
+    <match>5.0</match>
+    <country>Jamaica</country>
+    <code>JM</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x38.0x0</configuration>
+    <match>6.0</match>
+    <country>Jamaica</country>
+    <code>JM</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Super Lotto</name>
+    <configuration>5x35.1x10</configuration>
+    <match>5.1</match>
+    <country>Anguilla</country>
+    <code>AI</code>
+    <country>Antigua and Barbuda</country>
+    <code>AG</code>
+    <country>Barbados</country>
+    <code>BB</code>
+    <country>Jamaica</country>
+    <code>JM</code>
+    <country>Paraguay</country>
+    <code>PY</code>
+    <country>Saint Kitts and Nevis</country>
+    <code>KN</code>
+    <country>Sint Maarten</country>
+    <code>SX</code>
+    <country>United States Virgin Islands</country>
+    <code>VI</code>
+    <url>http://www.superlottogame.com/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Mini Loto (&#12511;&#12491;&#12525;&#12488;)</name>
+    <configuration>5x31.0x0</configuration>
+    <match>5.0</match>
+    <country>Japan</country>
+    <code>JP</code>
+    <url>http://www.takarakuji-dream.jp/</url>
+  </lottery>
+
+  <lottery>
+    <name>Loto 6 (&#12525;&#12488;6)</name>
+    <configuration>6x43.0x0</configuration>
+    <match>6.0</match>
+    <country>Japan</country>
+    <code>JP</code>
+    <url>http://www.takarakuji-dream.jp/</url>
+  </lottery>
+
+  <lottery>
+    <name>Loto 7 (&#12525;&#12488;7)</name>
+    <configuration>7x37.0x0</configuration>
+    <match>7.0</match>
+    <country>Japan</country>
+    <code>JP</code>
+    <url>http://www.mizuhobank.co.jp/takarakuji/suji/loto7/index.html</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x49.1x10</configuration>
+    <match>6.1</match>
+    <country>Kenya</country>
+    <code>KE</code>
+    <url>https://mylotto.co.ke/</url>
+    <note>Prese interpret bonus number 10 as 0.</note>
+  </lottery>
+
+  <lottery>
+    <name>Pambazuka National Lottery</name>
+    <configuration>6x49.1x10</configuration>
+    <match>6.1</match>
+    <country>Kenya</country>
+    <code>KE</code>
+    <url>https://www.pnl.co.ke/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Nanum Lottery (&#45208;&#45588;&#47196;&#46608;)</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>South Korea</country>
+    <code>KR</code>
+    <url>http://www.645lotto.net/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Loto</name>
+    <configuration>6x42.0x0</configuration>
+    <match>6.0</match>
+    <country>Lebanon</country>
+    <code>LB</code>
+    <url>http://www.lldj.com/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>LatLoto</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>Latvia</country>
+    <code>LV</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Loto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Morocco</country>
+    <code>MA</code>
+    <url>http://www.loterie.ma/</url>
+  </lottery>
+
+  <lottery>
+    <name>Milliardo</name>
+    <configuration>5x50.1x10</configuration>
+    <match>5.1</match>
+    <country>Morocco</country>
+    <code>MA</code>
+    <url>http://www.loterie.ma/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>&#1051;&#1086;&#1090;&#1086; 7</name>
+    <configuration>7x37.0x0</configuration>
+    <match>7.0</match>
+    <country>Macedonia</country>
+    <code>MK</code>
+    <url>https://www.loto.mk/LottoGame737</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Super 5 Lottery</name>
+    <configuration>5x45.0x0</configuration>
+    <match>5.0</match>
+    <country>Malta</country>
+    <code>MT</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Melate</name>
+    <configuration>6x56.0x0</configuration>
+    <match>6.0</match>
+    <country>Mexico</country>
+    <code>MX</code>
+  </lottery>
+
+  <lottery>
+    <name>Melate Chispazo</name>
+    <configuration>5x28.0x0</configuration>
+    <match>5.0</match>
+    <country>Mexico</country>
+    <code>MX</code>
+  </lottery>
+
+  <lottery>
+    <name>Melate Retro</name>
+    <configuration>6x39.0x0</configuration>
+    <match>6.0</match>
+    <country>Mexico</country>
+    <code>MX</code>
+  </lottery>
+
+  <lottery>
+    <name>Superlotto Millonario</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Mexico</country>
+    <code>MX</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Magnum Life</name>
+    <configuration>8x36.0x0</configuration>
+    <match>6.0</match>
+    <country>Malaysia</country>
+    <code>MY</code>
+    <url>http://www.magnum4d.my/en/Magnum-Life</url>
+  </lottery>
+
+  <lottery>
+    <name>Star Toto 6/50</name>
+    <configuration>6x50.0x0</configuration>
+    <match>6.0</match>
+    <country>Malaysia</country>
+    <code>MY</code>
+    <url>http://www.sportstoto.com.my/</url>
+  </lottery>
+
+  <lottery>
+    <name>Sportstoto Power 6/55</name>
+    <configuration>6x55.0x0</configuration>
+    <match>6.0</match>
+    <country>Malaysia</country>
+    <code>MY</code>
+    <url>http://www.sportstoto.com.my/</url>
+  </lottery>
+
+  <lottery>
+    <name>Sportstoto Supreme 6/58</name>
+    <configuration>6x58.0x0</configuration>
+    <match>6.0</match>
+    <country>Malaysia</country>
+    <code>MY</code>
+    <url>http://www.sportstoto.com.my/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Baba Ijebu</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Champion</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Fortune</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Give'N'Take - Lottery 5/90</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>MegaHammer</name>
+    <configuration>5x59.1x39</configuration>
+    <match>5.1</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.quicklotto.net/pages/how-to-play/mega</url>
+  </lottery>
+
+  <lottery>
+    <name>PlentyMillions</name>
+    <configuration>6x40.0x0</configuration>
+    <match>6.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.plentymillions.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Quick5</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.quicklotto.net/pages/how-to-play/quick5</url>
+  </lottery>
+
+  <lottery>
+    <name>Tango</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Wazobia</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - Kashman Daily  50</name>
+    <configuration>5x42.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/kashman-daily-50-lotto</url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - Kashman Daily 100</name>
+    <configuration>5x90.0x0</configuration>
+    <match>5.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/kashman-daily-100-lotto</url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - Powerball</name>
+    <configuration>5x69.1x26</configuration>
+    <match>5.1</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/eurojackpot</url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - Eurojackpot</name>
+    <configuration>5x50.2x10</configuration>
+    <match>5.2</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/eurojackpot</url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - Euromillions</name>
+    <configuration>5x50.2x12</configuration>
+    <match>5.2</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/euromillions</url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - Mega Millions</name>
+    <configuration>5x70.1x25</configuration>
+    <match>5.1</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/mega-millions</url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - Kashman Mega 150</name>
+    <configuration>5x49.1x10</configuration>
+    <match>5.1</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/kashman-mega-150-lotto</url>
+  </lottery>
+
+  <lottery>
+    <name>Western Lotto - UK Lotto</name>
+    <configuration>6x59.0x0</configuration>
+    <match>6.0</match>
+    <country>Nigeria</country>
+    <code>NG</code>
+    <url>https://www.westernlotto.com/play/uk-lotto</url>
+  </lottery>
+
+
+  <lottery>
+    <name>La Grande Loto</name>
+    <configuration>5x25.1x10</configuration>
+    <match>5.1</match>
+    <country>Nicaragua</country>
+    <code>NI</code>
+    <url>http://www.loto.com.ni/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>http://www.lotto.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  1 Number</name>
+    <configuration>1x80.0x0</configuration>
+    <match>1.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  2 Numbers</name>
+    <configuration>2x80.0x0</configuration>
+    <match>2.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  3 Numbers</name>
+    <configuration>3x80.0x0</configuration>
+    <match>3.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  4 Numbers</name>
+    <configuration>4x80.0x0</configuration>
+    <match>4.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  5 Numbers</name>
+    <configuration>5x80.0x0</configuration>
+    <match>5.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  6 Numbers</name>
+    <configuration>6x80.0x0</configuration>
+    <match>6.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  7 Numbers</name>
+    <configuration>7x80.0x0</configuration>
+    <match>7.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  8 Numbers</name>
+    <configuration>8x80.0x0</configuration>
+    <match>8.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day -  9 Numbers</name>
+    <configuration>9x80.0x0</configuration>
+    <match>9.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky Day - 10 Numbers</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>Netherlands</country>
+    <code>NL</code>
+    <url>https://luckyday.nederlandseloterij.nl/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>7x34.0x0</configuration>
+    <match>7.0</match>
+    <country>Norway</country>
+    <code>NO</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Big Wednesday Lottery</name>
+    <configuration>6x50.1x2</configuration>
+    <match>6.1</match>
+    <country>New Zealand</country>
+    <code>NZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x40.0x0</configuration>
+    <match>6.0</match>
+    <country>New Zealand</country>
+    <code>NZ</code>
+  </lottery>
+
+  <lottery>
+    <name>Powerball</name>
+    <configuration>6x40.1x10</configuration>
+    <match>6.1</match>
+    <country>New Zealand</country>
+    <code>NZ</code>
+  </lottery>
+
+
+  <lottery>
+    <name>La Tinka</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Peru</country>
+    <code>PE</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Grand Lotto 6/55</name>
+    <configuration>6x55.0x0</configuration>
+    <match>6.0</match>
+    <country>Philippines</country>
+    <code>PH</code>
+  </lottery>
+
+  <lottery>
+    <name>Lotto 6/42</name>
+    <configuration>6x42.0x0</configuration>
+    <match>6.0</match>
+    <country>Philippines</country>
+    <code>PH</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega Lotto 6/45</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Philippines</country>
+    <code>PH</code>
+  </lottery>
+
+  <lottery>
+    <name>Power Lotto</name>
+    <configuration>5x55.1x10</configuration>
+    <match>5.1</match>
+    <country>Philippines</country>
+    <code>PH</code>
+  </lottery>
+
+  <lottery>
+    <name>Super Lotto 6/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Philippines</country>
+    <code>PH</code>
+  </lottery>
+
+  <lottery>
+    <name>Ultra Lotto 6/58</name>
+    <configuration>6x58.0x0</configuration>
+    <match>6.0</match>
+    <country>Philippines</country>
+    <code>PH</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Ekstra Pensja</name>
+    <configuration>5x35.1x4</configuration>
+    <match>5.1</match>
+    <country>Poland</country>
+    <code>PL</code>
+    <url>http://www.lotto.pl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Joker</name>
+    <configuration>4x50.1x36</configuration>
+    <match>4.1</match>
+    <country>Poland</country>
+    <code>PL</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Poland</country>
+    <code>PL</code>
+    <url>http://www.lotto.pl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mini Lotto</name>
+    <configuration>5x42.0x0</configuration>
+    <match>5.0</match>
+    <country>Poland</country>
+    <code>PL</code>
+    <url>http://www.lotto.pl/</url>
+  </lottery>
+
+  <lottery>
+    <name>Multi Multi</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>Poland</country>
+    <code>PL</code>
+    <url>http://www.lotto.pl/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Loto Plus</name>
+    <configuration>5x40.1x15</configuration>
+    <match>5.1</match>
+    <country>Puerto Rico</country>
+    <code>PR</code>
+    <url>http://www.loteriasdepuertorico.com/juegos/loto-plus/</url>
+  </lottery>
+
+  <lottery>
+    <name>Powerball</name>
+    <configuration>5x69.1x26</configuration>
+    <match>5.1</match>
+    <country>Puerto Rico</country>
+    <code>PR</code>
+    <url>http://www.loteriasdepuertorico.com/juegos/powerball/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Totoloto</name>
+    <configuration>5x49.1x13</configuration>
+    <match>5.1</match>
+    <country>Portugal</country>
+    <code>PT</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Loto 6/49</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Romania</country>
+    <code>RO</code>
+    <url>http://www.loto.ro/</url>
+  </lottery>
+
+  <lottery>
+    <name>Loto 5/40</name>
+    <configuration>5x40.0x0</configuration>
+    <match>5.0</match>
+    <country>Romania</country>
+    <code>RO</code>
+    <url>http://www.loto.ro/</url>
+  </lottery>
+
+  <lottery>
+    <name>Joker</name>
+    <configuration>5x45.1x20</configuration>
+    <match>5.1</match>
+    <country>Romania</country>
+    <code>RO</code>
+    <url>http://www.loto.ro/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Gosloto (Гослото) 4/20</name>
+    <configuration>4x20.0x0</configuration>
+    <match>4.0</match>
+    <country>Russia</country>
+    <code>RU</code>
+    <url>http://www.stoloto.ru/4x20</url>
+  </lottery>
+
+  <lottery>
+    <name>Gosloto (&#1043;&#1086;&#1089;&#1083;&#1086;&#1090;&#1086;) 5/36</name>
+    <configuration>5x36.0x0</configuration>
+    <match>5.0</match>
+    <country>Russia</country>
+    <code>RU</code>
+    <url>http://www.gosloto.ru/5x36</url>
+  </lottery>
+
+  <lottery>
+    <name>Gosloto (&#1043;&#1086;&#1089;&#1083;&#1086;&#1090;&#1086;) 6/45</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Russia</country>
+    <code>RU</code>
+    <url>http://www.gosloto.ru/6x45</url>
+  </lottery>
+
+  <lottery>
+    <name>Rapido (Рапидо)</name>
+    <configuration>8x20.1x4</configuration>
+    <match>8.1</match>
+    <country>Russia</country>
+    <code>RU</code>
+    <url>https://www.stoloto.ru/rapido</url>
+  </lottery>
+
+  <lottery>
+    <name>Stoloto &#1057;&#1087;&#1086;&#1088;&#1090;&#1083;&#1086;&#1090;&#1086;</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Russia</country>
+    <code>RU</code>
+    <url>http://www.stoloto.ru/</url>
+  </lottery>
+
+  <lottery>
+    <name>Stoloto 7x49</name>
+    <configuration>7x49.0x0</configuration>
+    <match>7.0</match>
+    <country>Russia</country>
+    <code>RU</code>
+    <url>http://www.stoloto.ru/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>State Lottery (Državna Lutrija Srbije)</name>
+    <configuration>7x39.0x0</configuration>
+    <match>7.0</match>
+    <country>Serbia</country>
+    <code>RS</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Keno - Pick  1</name>
+    <configuration>1x70.0x0</configuration>
+    <match>1.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  2</name>
+    <configuration>2x70.0x0</configuration>
+    <match>2.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  3</name>
+    <configuration>3x70.0x0</configuration>
+    <match>3.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  4</name>
+    <configuration>4x70.0x0</configuration>
+    <match>4.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  5</name>
+    <configuration>5x70.0x0</configuration>
+    <match>5.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  6</name>
+    <configuration>6x70.0x0</configuration>
+    <match>6.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  7</name>
+    <configuration>7x70.0x0</configuration>
+    <match>7.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  8</name>
+    <configuration>8x70.0x0</configuration>
+    <match>8.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick  9</name>
+    <configuration>9x70.0x0</configuration>
+    <match>9.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick 10</name>
+    <configuration>10x70.0x0</configuration>
+    <match>10.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>Keno - Pick 11</name>
+    <configuration>11x70.0x0</configuration>
+    <match>11.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+  <lottery>
+    <name>SwedenLotto</name>
+    <configuration>7x35.0x0</configuration>
+    <match>7.0</match>
+    <country>Sweden</country>
+    <code>SE</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Loto</name>
+    <configuration>7x39.0x0</configuration>
+    <match>7.0</match>
+    <country>Slovenia</country>
+    <code>SI</code>
+    <url>http://www.loterija.si/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Toto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Singapore</country>
+    <url>http://www.singaporepools.com.sg/</url>
+    <code>SG</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Euromillions</name>
+    <configuration>7x33.1x6</configuration>
+    <match>7.1</match>
+    <country>Slovakia</country>
+    <url>http://www.tipos.sk/Default.aspx?CatID=638</url>
+    <code>SK</code>
+  </lottery>
+
+  <lottery>
+    <name>Loto</name>
+    <configuration>6x49.1x49</configuration>
+    <match>6.1</match>
+    <country>Slovakia</country>
+    <url>http://www.tipos.sk/Default.aspx?CatID=634</url>
+    <code>SK</code>
+  </lottery>
+
+  <lottery>
+    <name>Loto 5 z 35</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>Slovakia</country>
+    <url>http://www.tipos.sk/Default.aspx?CatID=636</url>
+    <code>SK</code>
+  </lottery>
+
+
+  <lottery>
+    <name>On Numara</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>Turkey</country>
+    <code>TR</code>
+  </lottery>
+
+  <lottery>
+    <name>&#350;ans Topu</name>
+    <configuration>5x34.1x14</configuration>
+    <match>5.1</match>
+    <country>Turkey</country>
+    <code>TR</code>
+  </lottery>
+
+  <lottery>
+    <name>Sayisal Loto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Turkey</country>
+    <code>TR</code>
+  </lottery>
+
+  <lottery>
+    <name>S&#252;per Loto</name>
+    <configuration>6x54.0x0</configuration>
+    <match>6.0</match>
+    <country>Turkey</country>
+    <code>TR</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Big Lottery (&#21488;&#28771;&#24425;&#21048;-&#22823;&#27138;&#36879;)</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  1 Star (&#12300;1&#26143;&#12301;)</name>
+    <configuration>1x80.0x0</configuration>
+    <match>1.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  2 Stars (&#12300;2&#26143;&#12301;)</name>
+    <configuration>2x80.0x0</configuration>
+    <match>2.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  3 Stars (&#12300;3&#26143;&#12301;)</name>
+    <configuration>3x80.0x0</configuration>
+    <match>3.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  4 Stars (&#12300;4&#26143;&#12301;)</name>
+    <configuration>4x80.0x0</configuration>
+    <match>4.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  5 Stars (&#12300;5&#26143;&#12301;)</name>
+    <configuration>5x80.0x0</configuration>
+    <match>5.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  6 Stars (&#12300;6&#26143;&#12301;)</name>
+    <configuration>6x80.0x0</configuration>
+    <match>6.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  7 Stars (&#12300;7&#26143;&#12301;)</name>
+    <configuration>7x80.0x0</configuration>
+    <match>7.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  8 Stars (&#12300;8&#26143;&#12301;)</name>
+    <configuration>8x80.0x0</configuration>
+    <match>8.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) -  9 Stars (&#12300;9&#26143;&#12301;)</name>
+    <configuration>9x80.0x0</configuration>
+    <match>9.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Bingo Bingo (&#36051;&#26524;&#36051;&#26524;) - 10 Stars (&#12300;10&#26143;&#12301;)</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Everyday 539 Lottery (&#21488;&#28771;&#24425;&#21048;-&#20170;&#24425;539)</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Lotto 740 (&#22823;&#31119;&#24425;)</name>
+    <configuration>7x40.0x0</configuration>
+    <match>7.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Power Lottery (&#21488;&#28771;&#24425;&#21048;-&#23041;&#21147;&#24425;)</name>
+    <configuration>6x38.1x8</configuration>
+    <match>6.1</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+  </lottery>
+
+  <lottery>
+    <name>Win-Win Color (&#38617;&#36111;&#24425;)</name>
+    <configuration>12x24.0x0</configuration>
+    <match>12.0</match>
+    <country>Taiwan</country>
+    <code>TW</code>
+    <url>http://www.taiwanlottery.com.tw/Lotto1224/index.asp</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Megalot</name>
+    <configuration>6x42.1x10</configuration>
+    <match>6.1</match>
+    <country>Ukraine</country>
+    <code>UA</code>
+  </lottery>
+
+  <lottery>
+    <name>National Lottery</name>
+    <configuration>6x52.0x0</configuration>
+    <match>6.0</match>
+    <country>Ukraine</country>
+    <code>UA</code>
+  </lottery>
+
+
+  <lottery>
+    <name>All or Nothing (Multi-State)</name>
+    <configuration>12x24.0x0</configuration>
+    <match>12.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.powerball.com/aon/aon_main.asp</url>
+  </lottery>
+
+  <lottery>
+    <name>Arizona - 'The Pick'</name>
+    <configuration>6x44.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Arizona - Fantasy 5</name>
+    <configuration>5x41.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Arizona - Triple Twist</name>
+    <configuration>6x42.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>California - Fantasy 5</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  1 Spot</name>
+    <configuration>1x80.0x0</configuration>
+    <match>1.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  2 Spots</name>
+    <configuration>2x80.0x0</configuration>
+    <match>2.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  3 Spots</name>
+    <configuration>3x80.0x0</configuration>
+    <match>3.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  4 Spots</name>
+    <configuration>4x80.0x0</configuration>
+    <match>4.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  5 Spots</name>
+    <configuration>5x80.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  6 Spot</name>
+    <configuration>6x80.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  7 Spot</name>
+    <configuration>7x80.0x0</configuration>
+    <match>7.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  8 Spots</name>
+    <configuration>8x80.0x0</configuration>
+    <match>8.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye -  9 Spots</name>
+    <configuration>9x80.0x0</configuration>
+    <match>9.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - Hot Spot Bulls-Eye - 10 Spots</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.calottery.com/play/draw-games/hot-spot</url>
+  </lottery>
+
+  <lottery>
+    <name>California - SuperLotto Plus</name>
+    <configuration>5x47.1x27</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Cash4Life (Multi-State)</name>
+    <configuration>5x60.1x4</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Colorado - Cash 5</name>
+    <configuration>5x32.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.coloradolottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Colorado - Lotto</name>
+    <configuration>6x42.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.coloradolottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Connecticut - Cash 5</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.ctlottery.org/</url>
+  </lottery>
+
+  <lottery>
+    <name>Connecticut - Classic Lotto</name>
+    <configuration>6x44.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.ctlottery.org/</url>
+  </lottery>
+
+  <lottery>
+    <name>Decades of Dollars (Multi-State)</name>
+    <configuration>6x47.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Delaware - Multi-Win Lotto</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.delottery.com/Drawing-Games/Multi-Win-Lotto</url>
+  </lottery>
+
+  <lottery>
+    <name>Florida - Fantasy 5</name>
+    <configuration>5x36.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Florida - Jackpot Triple Play</name>
+    <configuration>6x46.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Florida - Lotto</name>
+    <configuration>6x53.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Georgia - Fantasy 5</name>
+    <configuration>5x42.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Georgia - Jumbo Bucks Lotto</name>
+    <configuration>6x47.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.galottery.com/games/draw-games/jumbo-bucks-lotto</url>
+  </lottery>
+
+  <lottery>
+    <name>Hot Lotto (Multi-State)</name>
+    <configuration>5x47.1x19</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.powerball.com/hotlotto/hl_main.asp</url>
+  </lottery>
+
+  <lottery>
+    <name>Idaho - Idaho Cash</name>
+    <configuration>5x45.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Idaho - Weekly Grand</name>
+    <configuration>5x32.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Indiana - Cash 5</name>
+    <configuration>5x45.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.hoosierlottery.com/games/cash-5</url>
+  </lottery>
+
+  <lottery>
+    <name>Indiana - Hoosier Lotto</name>
+    <configuration>6x46.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://hoosierlottery.com/games/hoosier-lotto</url>
+  </lottery>
+
+  <lottery>
+    <name>Indiana - Mix &#38; Match</name>
+    <configuration>5x50.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Indiana - Quick Draw</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Illinois - Lotto</name>
+    <configuration>6x52.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Kansas - Super Cash</name>
+    <configuration>5x32.1x25</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.kslottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Kentucky - Cash Ball</name>
+    <configuration>4x33.1x31</configuration>
+    <match>4.1</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Kentucky - Win For Life</name>
+    <configuration>6x42.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Lotto America (Multi-State)</name>
+    <configuration>5x52.1x10</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Louisiana - Easy 5</name>
+    <configuration>5x37.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.louisianalottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Louisiana - Lotto</name>
+    <configuration>6x40.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.louisianalottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lucky-for-Life (Multi-State)</name>
+    <configuration>5x48.1x18</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.ctlottery.org/</url>
+  </lottery>
+
+  <lottery>
+    <name>Maryland - Bonus Match 5</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.mdlottery.com/games/bonus-match-5/</url>
+  </lottery>
+
+  <lottery>
+    <name>Maryland - Multi-Match</name>
+    <configuration>6x43.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.mdlottery.com/games/multi-match/</url>
+  </lottery>
+
+  <lottery>
+    <name>Massachusetts - Mass Cash</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.masslottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Massachusetts - Megabucks Doubler</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.masslottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Mega Bucks Plus (Multi-State)</name>
+    <configuration>5x41.1x6</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega Millions (Multi-State)</name>
+    <configuration>5x70.1x25</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.megamillions.com/</url>
+    <affiliate>http://go.icelotto.com/visit/?r=1&amp;bta=21276&amp;utm_campaign=RandomMM&amp;landingpage=http%3A//www.icelotto.com/en/lottery-ticket/MegaMillions/</affiliate>
+  </lottery>
+
+  <lottery>
+    <name>Michigan - Classic Lotto 47</name>
+    <configuration>6x47.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.michigan.gov/lottery/</url>
+  </lottery>
+
+  <lottery>
+    <name>Michigan - Fantasy 5</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.michigan.gov/lottery/</url>
+  </lottery>
+
+  <lottery>
+    <name>Minnesota - Gopher 5</name>
+    <configuration>5x47.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.mnlottery.com/games/lotto_games/gopher_5/</url>
+  </lottery>
+
+  <lottery>
+    <name>Minnesota - Northstar Cash</name>
+    <configuration>5x31.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://www.mnlottery.com/games/lotto_games/northstar_cash/</url>
+  </lottery>
+
+  <lottery>
+    <name>Missouri - Lotto</name>
+    <configuration>6x44.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.molottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Missouri - Show Me Cash</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.molottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Monopoly Millionaires' Club (Multi-State)</name>
+    <configuration>5x52.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url></url>
+  </lottery>
+
+  <lottery>
+    <name>Nebraska - Pick 5</name>
+    <configuration>5x38.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New Jersey - Cash 5</name>
+    <configuration>5x43.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New Jersey - Pick 6</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New Mexico - Road Runner Cash</name>
+    <configuration>5x37.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.nmlottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>New York - Lotto</name>
+    <configuration>6x59.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://nylottery.ny.gov/</url>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  1</name>
+    <configuration>1x80.0x0</configuration>
+    <match>1.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  2</name>
+    <configuration>2x80.0x0</configuration>
+    <match>2.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  3</name>
+    <configuration>3x80.0x0</configuration>
+    <match>3.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  4</name>
+    <configuration>4x80.0x0</configuration>
+    <match>4.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  5</name>
+    <configuration>5x80.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  6</name>
+    <configuration>6x80.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  7</name>
+    <configuration>7x80.0x0</configuration>
+    <match>7.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  8</name>
+    <configuration>8x80.0x0</configuration>
+    <match>8.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick  9</name>
+    <configuration>9x80.0x0</configuration>
+    <match>9.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Quick Draw - Pick 10</name>
+    <configuration>10x80.0x0</configuration>
+    <match>10.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>New York - Take 5</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://nylottery.ny.gov/</url>
+  </lottery>
+
+  <lottery>
+    <name>North Carolina - Carolina Cash 5</name>
+    <configuration>5x43.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.nc-educationlottery.org/</url>
+  </lottery>
+
+  <lottery>
+    <name>North Dakota - Wild Card 2</name>
+    <configuration>5x33.1x16</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.lottery.nd.gov/</url>
+  </lottery>
+
+  <lottery>
+    <name>Ohio - Classic Lotto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.ohiolottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Ohio - Rolling Cash 5</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.ohiolottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Oklahoma - Cash 5</name>
+    <configuration>5x36.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://lottery.ok.gov/</url>
+  </lottery>
+
+  <lottery>
+    <name>Oregon - Megabucks</name>
+    <configuration>6x48.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://http://www.oregonlottery.org/</url>
+  </lottery>
+
+  <lottery>
+    <name>Oregon - Win for Life</name>
+    <configuration>4x77.0x0</configuration>
+    <match>4.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://http://www.oregonlottery.org/</url>
+  </lottery>
+
+  <lottery>
+    <name>Pennsylvania - Cash 5</name>
+    <configuration>5x43.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Pennsylvania - Match 6</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Pennsylvania - Mix and Match</name>
+    <configuration>5x19.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Pennsylvania - Treasure Hunt</name>
+    <configuration>5x30.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Powerball (Multi-State)</name>
+    <configuration>5x69.1x26</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.powerball.com/</url>
+    <affiliate>http://go.icelotto.com/visit/?r=1&amp;bta=21276&amp;utm_campaign=RandomPB&amp;landingpage=http%3A//www.icelotto.com/en/lottery-ticket/PowerBall/</affiliate>
+  </lottery>
+
+  <lottery>
+    <name>Publishers Clearing House - Power Prize (Multi-State)</name>
+    <configuration>8x54.1x24</configuration>
+    <match>8.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://lotto.pch.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Publishers Clearing House - Mega Prize (Multi-State)</name>
+    <configuration>8x60.0x0</configuration>
+    <match>8.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://lotto.pch.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Publishers Clearing House - Life is Rich (Multi-State)</name>
+    <configuration>8x54.0x0</configuration>
+    <match>8.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://lotto.pch.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Rhode Island - Wild Money</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.sceducationlottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>South Carolina - Palmetto Cash 5</name>
+    <configuration>5x38.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.sceducationlottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>South Dakota - Dakota Cash</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://lottery.sd.gov/</url>
+  </lottery>
+
+  <lottery>
+    <name>Tennessee - Tennessee Cash</name>
+    <configuration>5x35.1x5</configuration>
+    <match>5.1</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.tnlottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Texas - All or Nothing</name>
+    <configuration>12x24.0x0</configuration>
+    <match>12.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://www.txlottery.org/export/sites/lottery/Games/All_or_Nothing/</url>
+  </lottery>
+
+  <lottery>
+    <name>Texas - Cash Five</name>
+    <configuration>5x35.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Texas - Lotto</name>
+    <configuration>6x54.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Texas - Two Step</name>
+    <configuration>4x35.1x35</configuration>
+    <match>4.1</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Virginia - Bank a Million</name>
+    <configuration>6x40.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://valottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Virginia - Cash 5</name>
+    <configuration>5x34.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Washington - Hit 5</name>
+    <configuration>5x39.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://walottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Washington - Lotto</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://walottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Washington - Match 4</name>
+    <configuration>4x24.0x0</configuration>
+    <match>4.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://walottery.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Weekly Grand (Multi-State)</name>
+    <configuration>4x35.1x35</configuration>
+    <match>4.1</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>West Virginia - Cash 25</name>
+    <configuration>6x25.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Wisconsin - Badger 5</name>
+    <configuration>5x31.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+  </lottery>
+
+  <lottery>
+    <name>Wisconsin - Megabucks</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>https://wilottery.com/lottogames/megabucksinfo.aspx</url>
+  </lottery>
+
+  <lottery>
+    <name>Wyoming - Cowboy Draw</name>
+    <configuration>5x45.0x0</configuration>
+    <match>5.0</match>
+    <country>USA</country>
+    <code>US</code>
+    <url>http://wyolotto.com/play/cowboy-draw/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Cashpot</name>
+    <configuration>5x20.0x0</configuration>
+    <match>5.0</match>
+    <country>Trinidad and Tobago</country>
+    <code>TT</code>
+    <url>http://nlcb.co.tt/cashpot/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto Plus</name>
+    <configuration>5x35.1x10</configuration>
+    <match>5.1</match>
+    <country>Trinidad and Tobago</country>
+    <code>TT</code>
+  </lottery>
+
+  <lottery>
+    <name>Play Whe</name>
+    <configuration>1x36.0x0</configuration>
+    <match>1.1</match>
+    <country>Trinidad and Tobago</country>
+    <code>TT</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>5x34.0x0</configuration>
+    <match>5.0</match>
+    <country>Saint Vincent and the Grenadines</country>
+    <code>VC</code>
+  </lottery>
+
+  <lottery>
+    <name>Super 6</name>
+    <configuration>6x28.0x0</configuration>
+    <match>6.0</match>
+    <country>Saint Vincent and the Grenadines</country>
+    <code>VC</code>
+    <url>http://www.nla.gd/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Mega 6/45</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 -  5 Numbers</name>
+    <configuration>5x45.0x0</configuration>
+    <match>5.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 -  6 Numbers</name>
+    <configuration>6x45.0x0</configuration>
+    <match>6.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 -  7 Numbers</name>
+    <configuration>7x45.0x0</configuration>
+    <match>7.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 -  8 Numbers</name>
+    <configuration>8x45.0x0</configuration>
+    <match>8.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 -  9 Numbers</name>
+    <configuration>9x45.0x0</configuration>
+    <match>9.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 - 10 Numbers</name>
+    <configuration>10x45.0x0</configuration>
+    <match>10.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 - 11 Numbers</name>
+    <configuration>11x45.0x0</configuration>
+    <match>11.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 - 12 Numbers</name>
+    <configuration>12x45.0x0</configuration>
+    <match>12.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 - 13 Numbers</name>
+    <configuration>13x45.0x0</configuration>
+    <match>13.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 - 14 Numbers</name>
+    <configuration>14x45.0x0</configuration>
+    <match>14.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 - 15 Numbers</name>
+    <configuration>15x45.0x0</configuration>
+    <match>15.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Mega 6/45 - 18 Numbers</name>
+    <configuration>18x45.0x0</configuration>
+    <match>18.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+  <lottery>
+    <name>Power 655</name>
+    <configuration>6x55.0x0</configuration>
+    <match>6.0</match>
+    <country>Vietnam</country>
+    <code>VN</code>
+  </lottery>
+
+
+  <lottery>
+    <name>Daily Lotto</name>
+    <configuration>5x36.0x0</configuration>
+    <match>5.0</match>
+    <country>South Africa</country>
+    <code>ZA</code>
+    <url>http://www.nationallottery.co.za/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto</name>
+    <configuration>6x52.0x0</configuration>
+    <match>6.0</match>
+    <country>South Africa</country>
+    <code>ZA</code>
+    <url>http://www.nationallottery.co.za/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto Plus 1</name>
+    <configuration>6x52.0x0</configuration>
+    <match>6.0</match>
+    <country>South Africa</country>
+    <code>ZA</code>
+    <url>http://www.nationallottery.co.za/</url>
+  </lottery>
+
+  <lottery>
+    <name>Lotto Plus 2</name>
+    <configuration>6x52.0x0</configuration>
+    <match>6.0</match>
+    <country>South Africa</country>
+    <code>ZA</code>
+    <url>http://www.nationallottery.co.za/</url>
+  </lottery>
+
+  <lottery>
+    <name>Powerball</name>
+    <configuration>5x50.1x20</configuration>
+    <match>5.1</match>
+    <country>South Africa</country>
+    <code>ZA</code>
+    <url>http://www.nationallottery.co.za/</url>
+  </lottery>
+
+  <lottery>
+    <name>Powerball Plus</name>
+    <configuration>5x50.1x20</configuration>
+    <match>5.1</match>
+    <country>South Africa</country>
+    <code>ZA</code>
+    <url>http://www.nationallottery.co.za/</url>
+  </lottery>
+
+
+  <lottery>
+    <name>Zambia Millions</name>
+    <configuration>6x49.0x0</configuration>
+    <match>6.0</match>
+    <country>Zambia</country>
+    <code>ZM</code>
+    <url>http://www.zambiamillions.com/</url>
+  </lottery>
+
+  <lottery>
+    <name>Zambian Lotto</name>
+    <configuration>6x42.0x0</configuration>
+    <match>6.0</match>
+    <country>Zambia</country>
+    <code>ZM</code>
+    <url>http://www.zambianlotto.co.zm/</url>
+  </lottery>
+
+</lotteries>
