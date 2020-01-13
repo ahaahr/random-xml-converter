@@ -65,10 +65,11 @@ fun getLotteryJson(doc: Document) {
         val lottery = Lottery(name, ticketFormats, jurisdictions, url, emptyList(), emptyList())
         lotteryList.add(lottery)
     }
-    GsonBuilder().serializeNulls().setPrettyPrinting().create().toJson(
-            lotteryList,
-            FileWriter("data/lotteries.json")
-    )
+    FileWriter("data/lotteries.json").apply {
+        GsonBuilder().serializeNulls().setPrettyPrinting().create().toJson(lotteryList, this)
+        flush()
+        close()
+    }
 }
 
 fun getCoinJson(doc: Document) {
@@ -127,10 +128,11 @@ fun getCoinJson(doc: Document) {
         ))
     }
 
-    GsonBuilder().serializeNulls().setPrettyPrinting().create().toJson(
-            categoryList,
-            FileWriter("data/coins.json")
-    )
+    FileWriter("data/coins.json").apply {
+        GsonBuilder().serializeNulls().setPrettyPrinting().create().toJson(categoryList, this)
+        flush()
+        close()
+    }
 }
 
 fun String.orNull(): String? {
