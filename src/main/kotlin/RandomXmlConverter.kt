@@ -3,14 +3,15 @@ import org.w3c.dom.Document
 import org.w3c.dom.NodeList
 import org.xml.sax.InputSource
 import java.io.File
+import java.io.FileWriter
 import java.io.StringReader
 import javax.xml.parsers.DocumentBuilderFactory
 import javax.xml.xpath.XPathConstants
 import javax.xml.xpath.XPathFactory
 
 fun main(args: Array<String>) {
-    println(getLotteryJson(readXml("data/lotteries.xml")))
-    println(getCoinJson(readXml("data/coins.xml")))
+    getLotteryJson(readXml("data/lotteries.xml"))
+    getCoinJson(readXml("data/coins.xml"))
 }
 
 fun readXml(filePath: String): Document {
@@ -26,7 +27,7 @@ fun readXml(filePath: String): Document {
  * Note that the Quick Draw lotteries wont be converted correctly using this function.
  * They will need to be converted by hand afterwards.
  */
-fun getLotteryJson(doc: Document): String {
+fun getLotteryJson(doc: Document) {
     val xPath = XPathFactory.newInstance().newXPath()
 
     val lotteryPath = "lotteries/lottery"
@@ -45,7 +46,7 @@ fun getLotteryJson(doc: Document): String {
         val regularMax = configuration.split(".").first().split("x")[1].toInt()
         val extraCount = configuration.split(".")[1].split("x").first().toInt()
         val extraMax = configuration.split(".")[1].split("x")[1].toInt()
-        val n = if (extraCount < 0) 1 else 2
+        val n = if (extraCount > 0) 2 else 1
         if (n == 1) {
             ticketFormats.add(TicketFormat(1, listOf(regularCount), listOf(1), listOf(regularMax), listOf(false)))
         } else {
@@ -54,8 +55,8 @@ fun getLotteryJson(doc: Document): String {
 
         val codes = xPath.evaluate("/lotteries/lottery[$lotteryIndex + 1]/code", doc, XPathConstants.NODESET) as NodeList
         val jurisdictions = mutableListOf<Jurisdiction>()
-        for (countryIndex in 0 until codes.length) {
-            jurisdictions.add(Jurisdiction(xPath.evaluate("/lotteries/lottery[$lotteryIndex + 1]/country", doc), null))
+        for (codeIndex in 0 until codes.length) {
+            jurisdictions.add(Jurisdiction(xPath.evaluate("/lotteries/lottery[$lotteryIndex + 1]/code[$codeIndex + 1]", doc), null))
         }
 
         val urlData = xPath.evaluate("/lotteries/lottery[$lotteryIndex + 1]/url", doc)
@@ -64,11 +65,13 @@ fun getLotteryJson(doc: Document): String {
         val lottery = Lottery(name, ticketFormats, jurisdictions, url, emptyList(), emptyList())
         lotteryList.add(lottery)
     }
-
-    return GsonBuilder().serializeNulls().create().toJson(lotteryList)
+    GsonBuilder().serializeNulls().setPrettyPrinting().create().toJson(
+            lotteryList,
+            FileWriter("data/lotteries.json")
+    )
 }
 
-fun getCoinJson(doc: Document): String {
+fun getCoinJson(doc: Document) {
     val xPath = XPathFactory.newInstance().newXPath()
 
     val categoryPath = "coins/category"
@@ -108,7 +111,7 @@ fun getCoinJson(doc: Document): String {
                     region = region.orNull(),
                     year = year.asIntOrNull(),
                     name = coinName.orNull(),
-                    denomination = denomination,
+                    denomination = denomination.orNull(),
                     collectible = collectible.isCollectible(),
                     imageObverse = obverse,
                     imageReverse = reverse,
@@ -124,7 +127,10 @@ fun getCoinJson(doc: Document): String {
         ))
     }
 
-    return GsonBuilder().serializeNulls().create().toJson(categoryList)
+    GsonBuilder().serializeNulls().setPrettyPrinting().create().toJson(
+            categoryList,
+            FileWriter("data/coins.json")
+    )
 }
 
 fun String.orNull(): String? {
@@ -140,5 +146,5 @@ private fun String.isCollectible(): Boolean {
 }
 
 private fun String.isObsolete(): Boolean? {
-    return if(!isNullOrBlank() && this == "obsolete") true else null
+    return if (!isNullOrBlank() && this == "obsolete") true else null
 }

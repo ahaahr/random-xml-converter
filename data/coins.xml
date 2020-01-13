@@ -1,1157 +1,965 @@
 <coins>
-
-  <category name="Antique Coins">
-
-    <coin collectible="collectible">
-      <region>Bactria Indo-Sythican Greek Kingdom</region>
-      <year></year>
-      <name>Eucratides</name>
-      <denomination>Silver Tetradrachm</denomination>
-      <obverse md5="97c0076dfb7bcabc236f87589911916b">antique/eucratides/obverse.png</obverse>
-      <reverse md5="6f59b978f89338bbce5b5e1f3fa7e4aa">antique/eucratides/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region>Roman Empire</region>
-      <year></year>
-      <name>Constatius II</name>
-      <denomination>Silver Siliqua</denomination>
-      <obverse md5="d9d0bf321da3821bef8ffdcec252da23">antique/constatius-ii/obverse.png</obverse>
-      <reverse md5="bd17ff0edc4f6a990dfa0b0ff14d1a82">antique/constatius-ii/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region>Roman Empire</region>
-      <year></year>
-      <name>Maximinus</name>
-      <denomination>Bronze/Silver Tetradrachm</denomination>
-      <obverse md5="ee3a892606dc6e92f6f8bbac70dae7de">antique/maximinus/obverse.png</obverse>
-      <reverse md5="7d373490f89a80daedbb86f41c10bd8c">antique/maximinus/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region>Roman Empire</region>
-      <year></year>
-      <name>Aurelian</name>
-      <denomination>Bronze Antoninianus</denomination>
-      <obverse md5="a6c15793993a59afbae670578bb7a9b8">antique/aurelian/obverse.png</obverse>
-      <reverse md5="20b8c3db7fb54ce8c3a693baddf50bc4">antique/aurelian/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region>Roman Empire</region>
-      <year></year>
-      <name>Valentinian II</name>
-      <denomination>Silver Siliqua</denomination>
-      <obverse md5="c7675582e703be16df40cd3abe295cd7">antique/valentinian-ii/obverse.png</obverse>
-      <reverse md5="fd5c1f2e003f2cbd0d7cbe8d03af88f0">antique/valentinian-ii/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region>Roman Empire</region>
-      <year></year>
-      <name>Postumus</name>
-      <denomination>Bronze/Silver Antoninianus</denomination>
-      <obverse md5="58b489728da66cb1ce2710e32bc3f2e5">antique/postumus/obverse.png</obverse>
-      <reverse md5="f1d45837005337c6b084a68af88a50e6">antique/postumus/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region>Roman Empire</region>
-      <year></year>
-      <name>Antoninus Pius</name>
-      <denomination>Bronze Sestertius</denomination>
-      <obverse md5="7483ee5a1bbdf000cfa209fd4a4e1275">antique/antonius-pius/obverse.png</obverse>
-      <reverse md5="81f03b335f33b92ce10b408131f3f1a3">antique/antonius-pius/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category name="Challenge Coins">
-
-    <coin collectible="collectible">
-      <region></region>
-      <year></year>
-      <name>Rim of the Pacific Exercise (RIMPAC) 2010</name>
-      <denomination></denomination>
-      <obverse md5="614ba50b7aecfcf3efb19e22c8fb56db">challenge/rimpac-2010/obverse.png</obverse>
-      <reverse md5="4186823c2a8a8f82b1ed311342122eae">challenge/rimpac-2010/reverse.png</reverse>
-      <acknowledgement>Mike Radin</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region></region>
-      <year></year>
-      <name>U.S. Navy Carrier Airborne Early Warning Squadron Nightwolves (VAW-77)</name>
-      <denomination></denomination>
-      <obverse md5="e3f966758ef7337a7b0c6a212ed64e03">challenge/nightwolves/obverse.png</obverse>
-      <reverse md5="630dbcb0d2b0d60f1503b13cc9b1fd58">challenge/nightwolves/reverse.png</reverse>
-      <acknowledgement>Mike Radin</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region></region>
-      <year></year>
-      <name>U.S. Coast Guard Academy Class of 2009</name>
-      <denomination></denomination>
-      <obverse md5="d843983eed1cff1aaf8e7b58f44d8d3d">challenge/coast-guard-academy/obverse.png</obverse>
-      <reverse md5="62de094b850246a107c938f32b1bfefd">challenge/coast-guard-academy/reverse.png</reverse>
-      <acknowledgement>Mike Radin</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region></region>
-      <year></year>
-      <name>U.S. Navy Construction Battalions (SeaBees)</name>
-      <denomination></denomination>
-      <obverse md5="27c393f50aa4000175402c8fbee84018">challenge/sea-bees/obverse.png</obverse>
-      <reverse md5="20fe3883e15435a74df3862761200681">challenge/sea-bees/reverse.png</reverse>
-      <acknowledgement>Mike Radin</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category name="Novelty Coins">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Todd Redden's Decision Maker Coin</name>
-      <denomination></denomination>
-      <obverse md5="7d9ba7dff57bba06dc8c874aea210104">novelty/decision-maker/obverse.png</obverse>
-      <reverse md5="e68823381ef215d24073339d8bd837d6">novelty/decision-maker/reverse.png</reverse>
-      <acknowledgement>Todd Redden</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year>2004</year>
-      <name>American Voting Coin</name>
-      <denomination></denomination>
-      <obverse md5="596661ca1bf52eb54799ab7bdccd0bf8">novelty/voting-2004/obverse.png</obverse>
-      <reverse md5="dd2d32028e782e1810e7a087698af436">novelty/voting-2004/reverse.png</reverse>
-      <acknowledgement>John Condon, The Voting Coin Company</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year>1922</year>
-      <name>Two-Face's Coin from Batman</name>
-      <denomination></denomination>
-      <obverse md5="7b351cb9ed19f9c885597be07334756c">novelty/two-face/obverse.png</obverse>
-      <reverse md5="86331054a10c54e93ab8ce5d76174d30">novelty/two-face/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="ATS" name="Austrian Schilling" obsolete="obsolete">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Schilling</denomination>
-      <obverse md5="7eabc13852e8c236bc75d498adada72c">ats/1-schilling/obverse.png</obverse>
-      <reverse md5="8e9433cc1b88dc4b0d2065e51cd32efe">ats/1-schilling/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="AUD" name="Australian Dollars">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>$1</denomination>
-      <obverse md5="21d6b9450d5876d62f3d4fb0adf6cc44">aud/1-dollar/obverse.png</obverse>
-      <reverse md5="3661cc9619d8aa45f7d2ba42f38a6513">aud/1-dollar/reverse.png</reverse>
-      <acknowledgement>Ralphie Kabo and Hamish Mcpherson</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="BRL" name="Brazilian Real">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Real</denomination>
-      <obverse md5="feca45ee9340de7a4350b1ff747a3bc6">brl/1-real/obverse.png</obverse>
-      <reverse md5="e60aa3786a390852141159ceeefe05e4">brl/1-real/reverse.png</reverse>
-      <acknowledgement>Roberto Amorim</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="CAD" name="Canadian Dollars">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Penny</name>
-      <denomination>1¢</denomination>
-      <obverse md5="42ca50aa929b46d40ed70c2610a763fe">cad/1-cent/obverse.png</obverse>
-      <reverse md5="30258cd0592475390ca0bca3dbe165d9">cad/1-cent/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Quarter</name>
-      <denomination>25¢</denomination>
-      <obverse md5="4d56a1ad91cabaf639179adcc4881022">cad/25-cent/obverse.png</obverse>
-      <reverse md5="3969cf45c7b5841080fcb7cbd89f98f1">cad/25-cent/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Loonie</name>
-      <denomination>$1</denomination>
-      <obverse md5="d8e188b429df8b6df5bff31d2365d11f">cad/1-dollar/obverse.png</obverse>
-      <reverse md5="22c5bf6c0341bcf182799cf0b5a23869">cad/1-dollar/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Toonie</name>
-      <denomination>$2</denomination>
-      <obverse md5="21da609108537ed8fa8a6da93a3abc44">cad/2-dollar/obverse.png</obverse>
-      <reverse md5="32161dd729338cf6c08712c4e53fbd02">cad/2-dollar/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="CHF" name="Swiss Francs">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Franc</denomination>
-      <obverse md5="e6a8ee14307a4ea5798c7b2b34d2258a">chf/1-franc/obverse.png</obverse>
-      <reverse md5="7319aeaed7da4cb6db652c9c1c922f85">chf/1-franc/reverse.png</reverse>
-      <acknowledgement>Angela Lorenz</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>2 Franc</denomination>
-      <obverse md5="63293545904ce0eea7f1c79f679c8321">chf/2-franc/obverse.png</obverse>
-      <reverse md5="c8ad05fa44b171b1a9d89dc6d2d48cbe">chf/2-franc/reverse.png</reverse>
-      <acknowledgement>René Meier</acknowledgement>
-    </coin>
-
-  </category>
-
-
-
-  <category code="CNY" name="Chinese Yuan Renminbi">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Year of the Dragon</name>
-      <denomination>150 Yuan</denomination>
-      <obverse md5="986c054ea7f5498f50571110a9a30924">cny/150-yuan/obverse.png</obverse>
-      <reverse md5="c39f83d23a23836496290503797ac828">cny/150-yuan/reverse.png</reverse>
-      <acknowledgement>Ste and Georgia</acknowledgement>
-    </coin>
-
-  </category>
-
-
-
-  <category code="COP" name="Colombian Pesos">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>500 Pesos</denomination>
-      <obverse md5="aa27e81dc9a66435dce26aaffc5be022">cop/500-pesos/obverse.png</obverse>
-      <reverse md5="294661247698b85d24ba9d19aac6eff9">cop/500-pesos/reverse.png</reverse>
-      <acknowledgement>Leonidas Enrique de la Rosa</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="CZK" name="Czech Koruny">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>5 Koruna</denomination>
-      <obverse md5="b1f4b291288f510d4113e6010f0514a7">czk/5-kr/obverse.png</obverse>
-      <reverse md5="9177ca8a63139369b7d521376d92a17e">czk/5-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>10 Koruna</denomination>
-      <obverse md5="66b92aa68703bb4148314228c2f22929">czk/10-kr/obverse.png</obverse>
-      <reverse md5="c76992fbca5cda40b7981f70f6470941">czk/10-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>20 Koruna</denomination>
-      <obverse md5="ccffd8d5604705c0743bbe733b3bd5fc">czk/20-kr/obverse.png</obverse>
-      <reverse md5="16b9c49f4ca2f2bbd63b6e0708c0fd93">czk/20-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-
-  <category code="DKK" name="Danish Kroner">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>10 Krone</denomination>
-      <obverse md5="00189f62b661eaba3ad6a40d98419bda">dkk/10-kr/obverse.png</obverse>
-      <reverse md5="6307a234bb4ce1278a407099ced1b9c3">dkk/10-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-
-  <category code="DDM" name="East German Mark" obsolete="obsolete">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Mark</denomination>
-      <obverse md5="3b51ac40171a3a0d03b90a4f0c730777">ddm/1-mark/obverse.png</obverse>
-      <reverse md5="513ff4d73c43edbb4007a9d0b9eb4127">ddm/1-mark/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>5 Mark</denomination>
-      <obverse md5="33606b873c031e4b1ad53f245aefa192">ddm/5-mark/obverse.png</obverse>
-      <reverse md5="cdbe227bd0c264ffbb9b2f5f0ffeffb7">ddm/5-mark/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="ESP" name="Spanish Pesetas" obsolete="obsolete">
-    
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>5 Pesetas</denomination>
-      <obverse md5="7d1213f6ef131822953d21a52a316b7d">esp/5-ptas/obverse.png</obverse>
-      <reverse md5="b691e66cabaa4725b1e84f0dbdbac4e1">esp/5-ptas/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="EUR" name="Euro">
-
-    <coin>
-      <region>Austria</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="bea24c2717e254376c31097be6110281">eur/1-euro-austria/obverse.png</obverse>
-      <reverse md5="e41927316489a884d29e6371c4c8b084">eur/1-euro-austria/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Belgium</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="0303276b24ba3187f721e616aa60bf0b">eur/1-euro-belgium/obverse.png</obverse>
-      <reverse md5="faffa173519cfb22a60358608465bfc5">eur/1-euro-belgium/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Finland</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="f9ac59abfe245cd6027aaf2144b9523b">eur/1-euro-finland/obverse.png</obverse>
-      <reverse md5="cbff3aea8690f0b6ea23f0cfedb59be5">eur/1-euro-finland/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>France</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="7df666a9e77f2a9b9011be8c09f51b73">eur/1-euro-france/obverse.png</obverse>
-      <reverse md5="d1a04767f48f83c930c434232b33dcd2">eur/1-euro-france/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Germany</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="0d229578297746bda302fe623ba027b3">eur/1-euro-germany/obverse.png</obverse>
-      <reverse md5="1e635d01368e678912bf595e05bff7aa">eur/1-euro-germany/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Greece</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="93dedfe989682ad0221488869549968b">eur/1-euro-greece/obverse.png</obverse>
-      <reverse md5="5f277fc2e3a30ffbaf677868c7d762f3">eur/1-euro-greece/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Ireland</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="b7c2b5de874e0889f1e9546eb8e2dbc2">eur/1-euro-ireland/obverse.png</obverse>
-      <reverse md5="f1a2d70dc7494deb5b1a678578141073">eur/1-euro-ireland/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Italy</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="fa5eb3634ee9c992e2ef4b71d3d8c858">eur/1-euro-italy/obverse.png</obverse>
-      <reverse md5="f557a0761397b9a8ea92a82ff43d0a83">eur/1-euro-italy/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Luxembourg</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="6d23bd707851ee909442826143351f7a">eur/1-euro-luxembourg/obverse.png</obverse>
-      <reverse md5="53ff529158eb5f9011a07e47b23ba2e7">eur/1-euro-luxembourg/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Netherlands</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="9e977a0c6fffaaebd03ad38d007a8ae3">eur/1-euro-netherlands/obverse.png</obverse>
-      <reverse md5="367fbc7b74cbba1b91334792d3916688">eur/1-euro-netherlands/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Portugal</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="3718a0ef986c556fded44017cbf0b233">eur/1-euro-portugal/obverse.png</obverse>
-      <reverse md5="524409d243c307dfe66f046022546bd4">eur/1-euro-portugal/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Spain</region>
-      <year></year>
-      <name></name>
-      <denomination>€1</denomination>
-      <obverse md5="4371b6b9742794b7f181d5f9e1c3b888">eur/1-euro-spain/obverse.png</obverse>
-      <reverse md5="0834ca58bc531a8ba3113cf200cc3b11">eur/1-euro-spain/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Austria</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="cd1728866590b10e8b1e3fb86f0ddd28">eur/2-euro-austria/obverse.png</obverse>
-      <reverse md5="a0be84dee806e5773a9b213c448b1d50">eur/2-euro-austria/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Belgium</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="c03e850ff7b3531045932317f0dc8f4b">eur/2-euro-belgium/obverse.png</obverse>
-      <reverse md5="2f0a5a1d3a44364f9d2d18924be0fa99">eur/2-euro-belgium/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Finland</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="81c8858a380364e9300d598dbd348025">eur/2-euro-finland/obverse.png</obverse>
-      <reverse md5="48ee362acb06857f5a26fc4470ffe345">eur/2-euro-finland/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>France</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="3b7f9029c0a4a6b227d17bfa3541d3a2">eur/2-euro-france/obverse.png</obverse>
-      <reverse md5="ce476ec3da4f765ddd2ff11aefdf4f92">eur/2-euro-france/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Germany</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="a214a33a98942fd067b9ad4b56ac2bb9">eur/2-euro-germany/obverse.png</obverse>
-      <reverse md5="8f54afefd3b6b2d4459ed90af26e97cf">eur/2-euro-germany/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Greece</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="969ad6cd88cfc1e3942c64bd159deaf2">eur/2-euro-greece/obverse.png</obverse>
-      <reverse md5="17b7c556b476e8a828971e3a7c406ee0">eur/2-euro-greece/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Ireland</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="7f99e9ee88f0c89cacc3866cb7f3c1c9">eur/2-euro-ireland/obverse.png</obverse>
-      <reverse md5="01104481a12901a772a2792f5ebb985a">eur/2-euro-ireland/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Italy</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="39fdff52c7d3910a8562c26dd86b3675">eur/2-euro-italy/obverse.png</obverse>
-      <reverse md5="f1fcf2d9bd9ea2d4756afbb3101e15d0">eur/2-euro-italy/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Luxembourg</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="719ce971aaae206a68b0bb0a1e4ce1d4">eur/2-euro-luxembourg/obverse.png</obverse>
-      <reverse md5="5f60dc2bd27b11cdbc25c57f0d02a2f8">eur/2-euro-luxembourg/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Netherlands</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="f678478cce396501d4eb47852f991925">eur/2-euro-netherlands/obverse.png</obverse>
-      <reverse md5="ece938829a5454cf51a8a0b3b71313b0">eur/2-euro-netherlands/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Portugal</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="36555cd4fc2717d2222b6ce12af8838d">eur/2-euro-portugal/obverse.png</obverse>
-      <reverse md5="405e74394efc4d433f0908cc6319c8e7">eur/2-euro-portugal/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Spain</region>
-      <year></year>
-      <name></name>
-      <denomination>€2</denomination>
-      <obverse md5="52e1fce8a5014bf81216e842ed667319">eur/2-euro-spain/obverse.png</obverse>
-      <reverse md5="e19362deb69a36ff2e46b24db9c3912e">eur/2-euro-spain/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="GBP" name="British Pounds">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>£1</denomination>
-      <obverse md5="2c65145feefe5e3cce4d55b032ccd078">gbp/1-pound/obverse.png</obverse>
-      <reverse md5="f40ac69465f6150c476803ea7051499e">gbp/1-pound/reverse.png</reverse>
-      <acknowledgement>Mike Hall</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="HRK" name="Croatian Kuna">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Kuna</denomination>
-      <obverse md5="516199573f3a7c1950a6bc6a67f3d6b9">hrk/1-kuna/obverse.png</obverse>
-      <reverse md5="6817c02ca2e843d366e8c2684c84ca3f">hrk/1-kuna/reverse.png</reverse>
-      <acknowledgement>Andrea Milanović</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>2 Kuna</denomination>
-      <obverse md5="a9f833a6f4757a15e0fb9a231c133be8">hrk/2-kuna/obverse.png</obverse>
-      <reverse md5="ccbd13c009284d10a9d027a074f597a0">hrk/2-kuna/reverse.png</reverse>
-      <acknowledgement>Andrea Milanović</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>5 Kuna</denomination>
-      <obverse md5="8bdf44856ade299ec5d10e8203126b8d">hrk/5-kuna/obverse.png</obverse>
-      <reverse md5="c918e3fb41d8b84f27826bce451ff24b">hrk/5-kuna/reverse.png</reverse>
-      <acknowledgement>Andrea Milanović</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>25 Kuna</denomination>
-      <obverse md5="8bdf44856ade299ec5d10e8203126b8d">hrk/5-kuna/obverse.png</obverse>
-      <reverse md5="c918e3fb41d8b84f27826bce451ff24b">hrk/5-kuna/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="HUF" name="Hungarian Forint">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>200 Forint</denomination>
-      <obverse md5="0fa6f44820ca17da7c98d191f845a649">huf/200-forint/obverse.png</obverse>
-      <reverse md5="305c28a3f88d49af860068565c5bc02d">huf/200-forint/reverse.png</reverse>
-      <acknowledgement>Peter Dobra</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="ILS" name="Israeli New Shekel">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>10 New Shekel</denomination>
-      <obverse md5="c58f2dc0dd65b9d460c8feb9c3160b62">ils/10-new-shekalim/obverse.png</obverse>
-      <reverse md5="abcbfef111c39a0317171013dde9f6fd">ils/10-new-shekalim/reverse.png</reverse>
-      <acknowledgement>Dimitri Avrutin</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="INR" name="Indian Rupee">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Rupee</denomination>
-      <obverse md5="e5f63b885e8d5615821203fc7c6b4bf3">inr/1-rupee/obverse.png</obverse>
-      <reverse md5="8368147f15364a72b8c8cad5286c74b8">inr/1-rupee/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="NLG" name="Netherlands Guilders" obsolete="obsolete">
-
-    <coin>
-      <region></region>
-      <year>1977</year>
-      <name></name>
-      <denomination>1 Guilder</denomination>
-      <obverse md5="bab0c6501e4e2f1523174819b14fb31b">nlg/1-guilder-1977/obverse.png</obverse>
-      <reverse md5="2d717df6c14b533261567cec9a68bfbf">nlg/1-guilder-1977/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year>1982</year>
-      <name></name>
-      <denomination>1 Guilder</denomination>
-      <obverse md5="efe28b13f44f801d54b78df96e5d2a06">nlg/1-guilder-1982/obverse.png</obverse>
-      <reverse md5="c17fa04e71672dd79af3375927bbf173">nlg/1-guilder-1982/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Rijksdaalder</name>
-      <denomination>2.5 Guilders</denomination>
-      <obverse md5="a85ce3ec4d5fccd524575252caa31146">nlg/rijksdaalder/obverse.png</obverse>
-      <reverse md5="52222054794d90055190b59b09083c58">nlg/rijksdaalder/reverse.png</reverse>
-      <acknowledgement>Angela Lorenz</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="NOK" name="Norwegian Kroner">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Krone</denomination>
-      <obverse md5="c2f4a7624453d5a59430d8dab7fdaed2">nok/1-kr/obverse.png</obverse>
-      <reverse md5="c1467c1ccd944fa9f44d3954a3993070">nok/1-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>5 Krone</denomination>
-      <obverse md5="0647b11c872335ffa388eeabd50e84ce">nok/5-kr/obverse.png</obverse>
-      <reverse md5="63d3479dbf5ce52d0c542060e770ab0e">nok/5-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>10 Krone</denomination>
-      <obverse md5="a4a62368d5e2df07952dd05b4dc60b29">nok/10-kr/obverse.png</obverse>
-      <reverse md5="afb3869180e7d5634e763e840662a2cf">nok/10-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>20 Krone</denomination>
-      <obverse md5="7e53061fca43b0b3e80a457a0d7714d8">nok/20-kr/obverse.png</obverse>
-      <reverse md5="11146ad0c81fff5c2693601ea5859a17">nok/20-kr/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="PLN" name="Polish Złoty">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Złoty</denomination>
-      <obverse md5="5f04e03be52156e61fb62415901ad675">pln/1-zloty/obverse.png</obverse>
-      <reverse md5="7b2a4848bdb7d1cfc085cb4b0c396c0d">pln/1-zloty/reverse.png</reverse>
-      <acknowledgement>Michal Makowski</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>2 Złoty</denomination>
-      <obverse md5="049253a6166a7d738b2e8519867eae0e">pln/2-zloty/obverse.png</obverse>
-      <reverse md5="19e5ec64c5d8b7f27efcb8a8c6d75d77">pln/2-zloty/reverse.png</reverse>
-      <acknowledgement>Michal Makowski</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>5 Złoty</denomination>
-      <obverse md5="cc10a5c77df62940048bc12f1cfef617">pln/5-zloty/obverse.png</obverse>
-      <reverse md5="0c44803e5ca6e5ad3567e16330a45dcb">pln/5-zloty/reverse.png</reverse>
-      <acknowledgement>Michal Makowski</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="PTE" name="Portuguese Escudos" obsolete="obsolete">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>5 Escudos</denomination>
-      <obverse md5="4299a108ebdfcdb8cfee0bc06918eeb6">pte/5-escudos/obverse.png</obverse>
-      <reverse md5="ee8bfedc3ccb1f2c50931648b74ea00e">pte/5-escudos/reverse.png</reverse>
-      <acknowledgement></acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="RON" name="Romanian Leu">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>50 Bani</denomination>
-      <obverse md5="38f5294397b1f2eba98341ce3529f4cd">ron/50-bani/obverse.png</obverse>
-      <reverse md5="5c70a72a6e177166f21ce7bb6b3715c8">ron/50-bani/reverse.png</reverse>
-      <acknowledgement>Lucian Barbu</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="SEK" name="Swedish Kronor">
-  
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Krona</denomination>
-      <obverse md5="f31f398b2b95d8fa01147d5088ec0224">sek/1-krona/obverse.png</obverse>
-      <reverse md5="a1cc5dbf2cbd86c751e82e302b3e484c">sek/1-krona/reverse.png</reverse>
-      <acknowledgement>Kricke Sundin</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="TRY" name="Turkish Lira">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>1 Lira</denomination>
-      <obverse md5="ee9d3e095d99844952586ed2f360e7c8">try/1-lira/obverse.png</obverse>
-      <reverse md5="cda54dae01a572aa3b3c1b6206a1b1ae">try/1-lira/reverse.png</reverse>
-      <acknowledgement>Umut Eroğlu</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>Kuruş</denomination>
-      <obverse md5="93511198cecd223cc5793fb44c8aa5ad">try/50-kurus/obverse.png</obverse>
-      <reverse md5="17a549f89e39062a60c68289098ea7e0">try/50-kurus/reverse.png</reverse>
-      <acknowledgement>Umut Eroğlu</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="USD" name="United States Dollars">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Half-Cent</name>
-      <denomination>0.5¢</denomination>
-      <obverse md5="9af2493327c4e00f732f1d6ab7ddb556">usd/half-cent/obverse.png</obverse>
-      <reverse md5="455279db6578f8800baef1bd556bcf2b">usd/half-cent/reverse.png</reverse>
-      <acknowledgement>Wikipedia</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Penny</name>
-      <denomination>1¢</denomination>
-      <obverse md5="d7b7a2a3f2b579acb91296a97bcae0ee">usd/1-cent/obverse.png</obverse>
-      <reverse md5="e15a167e7b4cedd68b4973351b61d165">usd/1-cent/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Nickel</name>
-      <denomination>5¢</denomination>
-      <obverse md5="525c00513ac7c208ed71a3a1cbfb27bb">usd/5-cent/obverse.png</obverse>
-      <reverse md5="c7c4dc92ff67196c5d7ef03df6b07356">usd/5-cent/reverse.png</reverse>
-      <acknowledgement>Gar Travis</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region></region>
-      <year>1913</year>
-      <name>Liberty Head Nickel</name>
-      <denomination>5¢</denomination>
-      <obverse md5="520259c9fd076f68adcde9d6012b67e1">usd/5-cent-1913-liberty-head-nickel/obverse.png</obverse>
-      <reverse md5="907cca1edd09cbaa16a0ea45ee15d429">usd/5-cent-1913-liberty-head-nickel/reverse.png</reverse>
-      <acknowledgement>Dwight Manley and Donn Pearlman</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region></region>
-      <year>1935</year>
-      <name>Buffalo Nickel</name>
-      <denomination>5¢</denomination>
-      <obverse md5="7fafcb6bc45aab333afe15cd341e9687">usd/5-cent-1935-buffalo-nickel/obverse.png</obverse>
-      <reverse md5="64ac5c89806228daea026a2ac1e5ce0a">usd/5-cent-1935-buffalo-nickel/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Dime</name>
-      <denomination>10¢</denomination>
-      <obverse md5="5097071d533215af0ee7ba1dae924a4b">usd/10-cent/obverse.png</obverse>
-      <reverse md5="063c55bf34353eb0a03bc719cc9e552e">usd/10-cent/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Connecticut</region>
-      <year></year>
-      <name>Quarter</name>
-      <denomination>25¢</denomination>
-      <obverse md5="1fe9a1f0be8f4cd00b203853beb0c789">usd/25-cent-connecticut/obverse.png</obverse>
-      <reverse md5="91d3e01ffe4e71c20bcd982ba47a1710">usd/25-cent-connecticut/reverse.png</reverse>
-      <acknowledgement>Tony Morse</acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Delaware</region>
-      <year></year>
-      <name>Quarter</name>
-      <denomination>25¢</denomination>
-      <obverse md5="4798807e05d88ad68a06b357a5bdc61e">usd/25-cent-delaware/obverse.png</obverse>
-      <reverse md5="6c6eba71a2ad900aa2243e08e50797b2">usd/25-cent-delaware/reverse.png</reverse>
-      <acknowledgement>Tony Morse</acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Georgia</region>
-      <year></year>
-      <name>Quarter</name>
-      <denomination>25¢</denomination>
-      <obverse md5="42919bda8a92210d293cbcb6e1508415">usd/25-cent-georgia/obverse.png</obverse>
-      <reverse md5="c3a01fb61eb4b08763d1301048815513">usd/25-cent-georgia/reverse.png</reverse>
-      <acknowledgement>Tony Morse</acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Maryland</region>
-      <year></year>
-      <name>Quarter</name>
-      <denomination>25¢</denomination>
-      <obverse md5="42919bda8a92210d293cbcb6e1508415">usd/25-cent-maryland/obverse.png</obverse>
-      <reverse md5="e9e2d9fd43991d9f13b37fe5a98d38d3">usd/25-cent-maryland/reverse.png</reverse>
-      <acknowledgement>Tony Morse</acknowledgement>
-    </coin>
-
-    <coin>
-      <region>New Jersey</region>
-      <year></year>
-      <name>Quarter</name>
-      <denomination>25¢</denomination>
-      <obverse md5="6bec0a6c75d283bd7e5e172a60b4a33e">usd/25-cent-new-jersey/obverse.png</obverse>
-      <reverse md5="44f66054c98f1c4d6466a83e4386a293">usd/25-cent-new-jersey/reverse.png</reverse>
-      <acknowledgement>Tony Morse</acknowledgement>
-    </coin>
-
-    <coin>
-      <region>Pennsylvania</region>
-      <year></year>
-      <name>Quarter</name>
-      <denomination>25¢</denomination>
-      <obverse md5="141d459070340eedcaa7e7037321fbdc">usd/25-cent-pennsylvania/obverse.png</obverse>
-      <reverse md5="0a0a95b8866cc13ca135abffcb3ee8d4">usd/25-cent-pennsylvania/reverse.png</reverse>
-      <acknowledgement>Tony Morse</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Half Dollar</name>
-      <denomination>50¢</denomination>
-      <obverse md5="f8386655ee18cc88cb1a1021c1cb024e">usd/50-cent/obverse.png</obverse>
-      <reverse md5="cd5e7e1d0d62ae4f3f75c1771651f145">usd/50-cent/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>John Adams</name>
-      <denomination>$1</denomination>
-      <obverse md5="59532982027dd614aea5748496adf32d">usd/1-dollar-adams/obverse.png</obverse>
-      <reverse md5="fe50e25cc25f2a73d6bce238ef11c925">usd/1-dollar-adams/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Thomas Jefferson</name>
-      <denomination>$1</denomination>
-      <obverse md5="acfdf46ed63350c1c863b1a87a256266">usd/1-dollar-jefferson/obverse.png</obverse>
-      <reverse md5="ff7ae37b21731b124a85766a8419baa4">usd/1-dollar-jefferson/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>James Madison</name>
-      <denomination>$1</denomination>
-      <obverse md5="959091aa89aba17c61373ce2be85295c">usd/1-dollar-madison/obverse.png</obverse>
-      <reverse md5="ff7ae37b21731b124a85766a8419baa4">usd/1-dollar-madison/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>George Washington</name>
-      <denomination>$1</denomination>
-      <obverse md5="03d62e992bf606776f6e3f9cbdb44f16">usd/1-dollar-washington/obverse.png</obverse>
-      <reverse md5="ce675d047b052513d4a7a730f3d6b32a">usd/1-dollar-washington/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name>Susan B. Anthony</name>
-      <denomination>$1</denomination>
-      <obverse md5="8f037e7c765ad935d724fbf01e7e8dd7">usd/1-dollar-anthony/obverse.png</obverse>
-      <reverse md5="b02ef9e688bb71cbfac8ca014ea79c46">usd/1-dollar-anthony/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-    <coin collectible="collectible">
-      <region></region>
-      <year></year>
-      <name>American Buffalo 24-Karat Gold Coin</name>
-      <denomination>$50</denomination>
-      <obverse md5="033158515fc56df8a7a5bc8ef10c8af7">usd/50-dollar-gold-buffalo/obverse.png</obverse>
-      <reverse md5="ec1faf58003ca40638d1cdeff2802f5f">usd/50-dollar-gold-buffalo/reverse.png</reverse>
-      <acknowledgement>Carl Cornealy</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="XCD" name="East Caribbean Dollars">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>$1</denomination>
-      <obverse md5="2abd277307e12d6711fab62f7c4dc883">xcd/1-dollar/obverse.png</obverse>
-      <reverse md5="2306eb28ed9ee62025a1253f6c8a897d">xcd/1-dollar/reverse.png</reverse>
-      <acknowledgement>Karl Eklund and Alwi Wijaya</acknowledgement>
-    </coin>
-
-  </category>
-
-
-  <category code="YUD" name="Yugoslavian Dinar" obsolete="obsolete">
-
-    <coin>
-      <region></region>
-      <year></year>
-      <name></name>
-      <denomination>20 Para</denomination>
-      <obverse md5="b6eed271bc444b4f61e1440406cced0a">yud/20-para/obverse.png</obverse>
-      <reverse md5="5834b7f17cdf8c156d1ac79fe591e7b1">yud/20-para/reverse.png</reverse>
-      <acknowledgement>Joshua Holman</acknowledgement>
-    </coin>
-
-  </category>
-
+    <script id="tinyhippos-injected"/>
+    <category name="Antique Coins">
+        <coin collectible="collectible">
+            <region>Bactria Indo-Sythican Greek Kingdom</region>
+            <year/>
+            <name>Eucratides</name>
+            <denomination>Silver Tetradrachm</denomination>
+            <obverse md5="97c0076dfb7bcabc236f87589911916b">antique/eucratides/obverse.png</obverse>
+            <reverse md5="6f59b978f89338bbce5b5e1f3fa7e4aa">antique/eucratides/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region>Roman Empire</region>
+            <year/>
+            <name>Constatius II</name>
+            <denomination>Silver Siliqua</denomination>
+            <obverse md5="d9d0bf321da3821bef8ffdcec252da23">antique/constatius-ii/obverse.png</obverse>
+            <reverse md5="bd17ff0edc4f6a990dfa0b0ff14d1a82">antique/constatius-ii/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region>Roman Empire</region>
+            <year/>
+            <name>Maximinus</name>
+            <denomination>Bronze/Silver Tetradrachm</denomination>
+            <obverse md5="ee3a892606dc6e92f6f8bbac70dae7de">antique/maximinus/obverse.png</obverse>
+            <reverse md5="7d373490f89a80daedbb86f41c10bd8c">antique/maximinus/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region>Roman Empire</region>
+            <year/>
+            <name>Aurelian</name>
+            <denomination>Bronze Antoninianus</denomination>
+            <obverse md5="a6c15793993a59afbae670578bb7a9b8">antique/aurelian/obverse.png</obverse>
+            <reverse md5="20b8c3db7fb54ce8c3a693baddf50bc4">antique/aurelian/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region>Roman Empire</region>
+            <year/>
+            <name>Valentinian II</name>
+            <denomination>Silver Siliqua</denomination>
+            <obverse md5="c7675582e703be16df40cd3abe295cd7">antique/valentinian-ii/obverse.png</obverse>
+            <reverse md5="fd5c1f2e003f2cbd0d7cbe8d03af88f0">antique/valentinian-ii/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region>Roman Empire</region>
+            <year/>
+            <name>Postumus</name>
+            <denomination>Bronze/Silver Antoninianus</denomination>
+            <obverse md5="58b489728da66cb1ce2710e32bc3f2e5">antique/postumus/obverse.png</obverse>
+            <reverse md5="f1d45837005337c6b084a68af88a50e6">antique/postumus/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region>Roman Empire</region>
+            <year/>
+            <name>Antoninus Pius</name>
+            <denomination>Bronze Sestertius</denomination>
+            <obverse md5="7483ee5a1bbdf000cfa209fd4a4e1275">antique/antonius-pius/obverse.png</obverse>
+            <reverse md5="81f03b335f33b92ce10b408131f3f1a3">antique/antonius-pius/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+    </category>
+    <category name="Challenge Coins">
+        <coin collectible="collectible">
+            <region/>
+            <year/>
+            <name>Rim of the Pacific Exercise (RIMPAC) 2010</name>
+            <denomination/>
+            <obverse md5="614ba50b7aecfcf3efb19e22c8fb56db">challenge/rimpac-2010/obverse.png</obverse>
+            <reverse md5="4186823c2a8a8f82b1ed311342122eae">challenge/rimpac-2010/reverse.png</reverse>
+            <acknowledgement>Mike Radin</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region/>
+            <year/>
+            <name>
+                U.S. Navy Carrier Airborne Early Warning Squadron Nightwolves (VAW-77)
+            </name>
+            <denomination/>
+            <obverse md5="e3f966758ef7337a7b0c6a212ed64e03">challenge/nightwolves/obverse.png</obverse>
+            <reverse md5="630dbcb0d2b0d60f1503b13cc9b1fd58">challenge/nightwolves/reverse.png</reverse>
+            <acknowledgement>Mike Radin</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region/>
+            <year/>
+            <name>U.S. Coast Guard Academy Class of 2009</name>
+            <denomination/>
+            <obverse md5="d843983eed1cff1aaf8e7b58f44d8d3d">challenge/coast-guard-academy/obverse.png</obverse>
+            <reverse md5="62de094b850246a107c938f32b1bfefd">challenge/coast-guard-academy/reverse.png</reverse>
+            <acknowledgement>Mike Radin</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region/>
+            <year/>
+            <name>U.S. Navy Construction Battalions (SeaBees)</name>
+            <denomination/>
+            <obverse md5="27c393f50aa4000175402c8fbee84018">challenge/sea-bees/obverse.png</obverse>
+            <reverse md5="20fe3883e15435a74df3862761200681">challenge/sea-bees/reverse.png</reverse>
+            <acknowledgement>Mike Radin</acknowledgement>
+        </coin>
+    </category>
+    <category name="Novelty Coins">
+        <coin>
+            <region/>
+            <year/>
+            <name>Todd Redden's Decision Maker Coin</name>
+            <denomination/>
+            <obverse md5="7d9ba7dff57bba06dc8c874aea210104">novelty/decision-maker/obverse.png</obverse>
+            <reverse md5="e68823381ef215d24073339d8bd837d6">novelty/decision-maker/reverse.png</reverse>
+            <acknowledgement>Todd Redden</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year>2004</year>
+            <name>American Voting Coin</name>
+            <denomination/>
+            <obverse md5="596661ca1bf52eb54799ab7bdccd0bf8">novelty/voting-2004/obverse.png</obverse>
+            <reverse md5="dd2d32028e782e1810e7a087698af436">novelty/voting-2004/reverse.png</reverse>
+            <acknowledgement>John Condon, The Voting Coin Company</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year>1922</year>
+            <name>Two-Face's Coin from Batman</name>
+            <denomination/>
+            <obverse md5="7b351cb9ed19f9c885597be07334756c">novelty/two-face/obverse.png</obverse>
+            <reverse md5="86331054a10c54e93ab8ce5d76174d30">novelty/two-face/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="ATS" name="Austrian Schilling" obsolete="obsolete">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Schilling</denomination>
+            <obverse md5="7eabc13852e8c236bc75d498adada72c">ats/1-schilling/obverse.png</obverse>
+            <reverse md5="8e9433cc1b88dc4b0d2065e51cd32efe">ats/1-schilling/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="AUD" name="Australian Dollars">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>$1</denomination>
+            <obverse md5="21d6b9450d5876d62f3d4fb0adf6cc44">aud/1-dollar/obverse.png</obverse>
+            <reverse md5="3661cc9619d8aa45f7d2ba42f38a6513">aud/1-dollar/reverse.png</reverse>
+            <acknowledgement>Ralphie Kabo and Hamish Mcpherson</acknowledgement>
+        </coin>
+    </category>
+    <category code="BRL" name="Brazilian Real">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Real</denomination>
+            <obverse md5="feca45ee9340de7a4350b1ff747a3bc6">brl/1-real/obverse.png</obverse>
+            <reverse md5="e60aa3786a390852141159ceeefe05e4">brl/1-real/reverse.png</reverse>
+            <acknowledgement>Roberto Amorim</acknowledgement>
+        </coin>
+    </category>
+    <category code="CAD" name="Canadian Dollars">
+        <coin>
+            <region/>
+            <year/>
+            <name>Penny</name>
+            <denomination>1¢</denomination>
+            <obverse md5="42ca50aa929b46d40ed70c2610a763fe">cad/1-cent/obverse.png</obverse>
+            <reverse md5="30258cd0592475390ca0bca3dbe165d9">cad/1-cent/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Quarter</name>
+            <denomination>25¢</denomination>
+            <obverse md5="4d56a1ad91cabaf639179adcc4881022">cad/25-cent/obverse.png</obverse>
+            <reverse md5="3969cf45c7b5841080fcb7cbd89f98f1">cad/25-cent/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Loonie</name>
+            <denomination>$1</denomination>
+            <obverse md5="d8e188b429df8b6df5bff31d2365d11f">cad/1-dollar/obverse.png</obverse>
+            <reverse md5="22c5bf6c0341bcf182799cf0b5a23869">cad/1-dollar/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Toonie</name>
+            <denomination>$2</denomination>
+            <obverse md5="21da609108537ed8fa8a6da93a3abc44">cad/2-dollar/obverse.png</obverse>
+            <reverse md5="32161dd729338cf6c08712c4e53fbd02">cad/2-dollar/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+    </category>
+    <category code="CHF" name="Swiss Francs">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Franc</denomination>
+            <obverse md5="e6a8ee14307a4ea5798c7b2b34d2258a">chf/1-franc/obverse.png</obverse>
+            <reverse md5="7319aeaed7da4cb6db652c9c1c922f85">chf/1-franc/reverse.png</reverse>
+            <acknowledgement>Angela Lorenz</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>2 Franc</denomination>
+            <obverse md5="63293545904ce0eea7f1c79f679c8321">chf/2-franc/obverse.png</obverse>
+            <reverse md5="c8ad05fa44b171b1a9d89dc6d2d48cbe">chf/2-franc/reverse.png</reverse>
+            <acknowledgement>René Meier</acknowledgement>
+        </coin>
+    </category>
+    <category code="CNY" name="Chinese Yuan Renminbi">
+        <coin>
+            <region/>
+            <year/>
+            <name>Year of the Dragon</name>
+            <denomination>150 Yuan</denomination>
+            <obverse md5="986c054ea7f5498f50571110a9a30924">cny/150-yuan/obverse.png</obverse>
+            <reverse md5="c39f83d23a23836496290503797ac828">cny/150-yuan/reverse.png</reverse>
+            <acknowledgement>Ste and Georgia</acknowledgement>
+        </coin>
+    </category>
+    <category code="COP" name="Colombian Pesos">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>500 Pesos</denomination>
+            <obverse md5="aa27e81dc9a66435dce26aaffc5be022">cop/500-pesos/obverse.png</obverse>
+            <reverse md5="294661247698b85d24ba9d19aac6eff9">cop/500-pesos/reverse.png</reverse>
+            <acknowledgement>Leonidas Enrique de la Rosa</acknowledgement>
+        </coin>
+    </category>
+    <category code="CZK" name="Czech Koruny">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>5 Koruna</denomination>
+            <obverse md5="b1f4b291288f510d4113e6010f0514a7">czk/5-kr/obverse.png</obverse>
+            <reverse md5="9177ca8a63139369b7d521376d92a17e">czk/5-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>10 Koruna</denomination>
+            <obverse md5="66b92aa68703bb4148314228c2f22929">czk/10-kr/obverse.png</obverse>
+            <reverse md5="c76992fbca5cda40b7981f70f6470941">czk/10-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>20 Koruna</denomination>
+            <obverse md5="ccffd8d5604705c0743bbe733b3bd5fc">czk/20-kr/obverse.png</obverse>
+            <reverse md5="16b9c49f4ca2f2bbd63b6e0708c0fd93">czk/20-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="DKK" name="Danish Kroner">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>10 Krone</denomination>
+            <obverse md5="00189f62b661eaba3ad6a40d98419bda">dkk/10-kr/obverse.png</obverse>
+            <reverse md5="6307a234bb4ce1278a407099ced1b9c3">dkk/10-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="DDM" name="East German Mark" obsolete="obsolete">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Mark</denomination>
+            <obverse md5="3b51ac40171a3a0d03b90a4f0c730777">ddm/1-mark/obverse.png</obverse>
+            <reverse md5="513ff4d73c43edbb4007a9d0b9eb4127">ddm/1-mark/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>5 Mark</denomination>
+            <obverse md5="33606b873c031e4b1ad53f245aefa192">ddm/5-mark/obverse.png</obverse>
+            <reverse md5="cdbe227bd0c264ffbb9b2f5f0ffeffb7">ddm/5-mark/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="ESP" name="Spanish Pesetas" obsolete="obsolete">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>5 Pesetas</denomination>
+            <obverse md5="7d1213f6ef131822953d21a52a316b7d">esp/5-ptas/obverse.png</obverse>
+            <reverse md5="b691e66cabaa4725b1e84f0dbdbac4e1">esp/5-ptas/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="EUR" name="Euro">
+        <coin>
+            <region>Austria</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="bea24c2717e254376c31097be6110281">eur/1-euro-austria/obverse.png</obverse>
+            <reverse md5="e41927316489a884d29e6371c4c8b084">eur/1-euro-austria/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Belgium</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="0303276b24ba3187f721e616aa60bf0b">eur/1-euro-belgium/obverse.png</obverse>
+            <reverse md5="faffa173519cfb22a60358608465bfc5">eur/1-euro-belgium/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Finland</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="f9ac59abfe245cd6027aaf2144b9523b">eur/1-euro-finland/obverse.png</obverse>
+            <reverse md5="cbff3aea8690f0b6ea23f0cfedb59be5">eur/1-euro-finland/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>France</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="7df666a9e77f2a9b9011be8c09f51b73">eur/1-euro-france/obverse.png</obverse>
+            <reverse md5="d1a04767f48f83c930c434232b33dcd2">eur/1-euro-france/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Germany</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="0d229578297746bda302fe623ba027b3">eur/1-euro-germany/obverse.png</obverse>
+            <reverse md5="1e635d01368e678912bf595e05bff7aa">eur/1-euro-germany/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Greece</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="93dedfe989682ad0221488869549968b">eur/1-euro-greece/obverse.png</obverse>
+            <reverse md5="5f277fc2e3a30ffbaf677868c7d762f3">eur/1-euro-greece/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Ireland</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="b7c2b5de874e0889f1e9546eb8e2dbc2">eur/1-euro-ireland/obverse.png</obverse>
+            <reverse md5="f1a2d70dc7494deb5b1a678578141073">eur/1-euro-ireland/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Italy</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="fa5eb3634ee9c992e2ef4b71d3d8c858">eur/1-euro-italy/obverse.png</obverse>
+            <reverse md5="f557a0761397b9a8ea92a82ff43d0a83">eur/1-euro-italy/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Luxembourg</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="6d23bd707851ee909442826143351f7a">eur/1-euro-luxembourg/obverse.png</obverse>
+            <reverse md5="53ff529158eb5f9011a07e47b23ba2e7">eur/1-euro-luxembourg/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Netherlands</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="9e977a0c6fffaaebd03ad38d007a8ae3">eur/1-euro-netherlands/obverse.png</obverse>
+            <reverse md5="367fbc7b74cbba1b91334792d3916688">eur/1-euro-netherlands/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Portugal</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="3718a0ef986c556fded44017cbf0b233">eur/1-euro-portugal/obverse.png</obverse>
+            <reverse md5="524409d243c307dfe66f046022546bd4">eur/1-euro-portugal/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Spain</region>
+            <year/>
+            <name/>
+            <denomination>€1</denomination>
+            <obverse md5="4371b6b9742794b7f181d5f9e1c3b888">eur/1-euro-spain/obverse.png</obverse>
+            <reverse md5="0834ca58bc531a8ba3113cf200cc3b11">eur/1-euro-spain/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Austria</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="cd1728866590b10e8b1e3fb86f0ddd28">eur/2-euro-austria/obverse.png</obverse>
+            <reverse md5="a0be84dee806e5773a9b213c448b1d50">eur/2-euro-austria/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Belgium</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="c03e850ff7b3531045932317f0dc8f4b">eur/2-euro-belgium/obverse.png</obverse>
+            <reverse md5="2f0a5a1d3a44364f9d2d18924be0fa99">eur/2-euro-belgium/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Finland</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="81c8858a380364e9300d598dbd348025">eur/2-euro-finland/obverse.png</obverse>
+            <reverse md5="48ee362acb06857f5a26fc4470ffe345">eur/2-euro-finland/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>France</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="3b7f9029c0a4a6b227d17bfa3541d3a2">eur/2-euro-france/obverse.png</obverse>
+            <reverse md5="ce476ec3da4f765ddd2ff11aefdf4f92">eur/2-euro-france/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Germany</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="a214a33a98942fd067b9ad4b56ac2bb9">eur/2-euro-germany/obverse.png</obverse>
+            <reverse md5="8f54afefd3b6b2d4459ed90af26e97cf">eur/2-euro-germany/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Greece</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="969ad6cd88cfc1e3942c64bd159deaf2">eur/2-euro-greece/obverse.png</obverse>
+            <reverse md5="17b7c556b476e8a828971e3a7c406ee0">eur/2-euro-greece/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Ireland</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="7f99e9ee88f0c89cacc3866cb7f3c1c9">eur/2-euro-ireland/obverse.png</obverse>
+            <reverse md5="01104481a12901a772a2792f5ebb985a">eur/2-euro-ireland/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Italy</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="39fdff52c7d3910a8562c26dd86b3675">eur/2-euro-italy/obverse.png</obverse>
+            <reverse md5="f1fcf2d9bd9ea2d4756afbb3101e15d0">eur/2-euro-italy/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Luxembourg</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="719ce971aaae206a68b0bb0a1e4ce1d4">eur/2-euro-luxembourg/obverse.png</obverse>
+            <reverse md5="5f60dc2bd27b11cdbc25c57f0d02a2f8">eur/2-euro-luxembourg/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Netherlands</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="f678478cce396501d4eb47852f991925">eur/2-euro-netherlands/obverse.png</obverse>
+            <reverse md5="ece938829a5454cf51a8a0b3b71313b0">eur/2-euro-netherlands/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Portugal</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="36555cd4fc2717d2222b6ce12af8838d">eur/2-euro-portugal/obverse.png</obverse>
+            <reverse md5="405e74394efc4d433f0908cc6319c8e7">eur/2-euro-portugal/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region>Spain</region>
+            <year/>
+            <name/>
+            <denomination>€2</denomination>
+            <obverse md5="52e1fce8a5014bf81216e842ed667319">eur/2-euro-spain/obverse.png</obverse>
+            <reverse md5="e19362deb69a36ff2e46b24db9c3912e">eur/2-euro-spain/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="GBP" name="British Pounds">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>£1</denomination>
+            <obverse md5="2c65145feefe5e3cce4d55b032ccd078">gbp/1-pound/obverse.png</obverse>
+            <reverse md5="f40ac69465f6150c476803ea7051499e">gbp/1-pound/reverse.png</reverse>
+            <acknowledgement>Mike Hall</acknowledgement>
+        </coin>
+    </category>
+    <category code="HRK" name="Croatian Kuna">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Kuna</denomination>
+            <obverse md5="516199573f3a7c1950a6bc6a67f3d6b9">hrk/1-kuna/obverse.png</obverse>
+            <reverse md5="6817c02ca2e843d366e8c2684c84ca3f">hrk/1-kuna/reverse.png</reverse>
+            <acknowledgement>Andrea Milanović</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>2 Kuna</denomination>
+            <obverse md5="a9f833a6f4757a15e0fb9a231c133be8">hrk/2-kuna/obverse.png</obverse>
+            <reverse md5="ccbd13c009284d10a9d027a074f597a0">hrk/2-kuna/reverse.png</reverse>
+            <acknowledgement>Andrea Milanović</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>5 Kuna</denomination>
+            <obverse md5="8bdf44856ade299ec5d10e8203126b8d">hrk/5-kuna/obverse.png</obverse>
+            <reverse md5="c918e3fb41d8b84f27826bce451ff24b">hrk/5-kuna/reverse.png</reverse>
+            <acknowledgement>Andrea Milanović</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>25 Kuna</denomination>
+            <obverse md5="8bdf44856ade299ec5d10e8203126b8d">hrk/5-kuna/obverse.png</obverse>
+            <reverse md5="c918e3fb41d8b84f27826bce451ff24b">hrk/5-kuna/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="HUF" name="Hungarian Forint">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>200 Forint</denomination>
+            <obverse md5="0fa6f44820ca17da7c98d191f845a649">huf/200-forint/obverse.png</obverse>
+            <reverse md5="305c28a3f88d49af860068565c5bc02d">huf/200-forint/reverse.png</reverse>
+            <acknowledgement>Peter Dobra</acknowledgement>
+        </coin>
+    </category>
+    <category code="ILS" name="Israeli New Shekel">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>10 New Shekel</denomination>
+            <obverse md5="c58f2dc0dd65b9d460c8feb9c3160b62">ils/10-new-shekalim/obverse.png</obverse>
+            <reverse md5="abcbfef111c39a0317171013dde9f6fd">ils/10-new-shekalim/reverse.png</reverse>
+            <acknowledgement>Dimitri Avrutin</acknowledgement>
+        </coin>
+    </category>
+    <category code="INR" name="Indian Rupee">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Rupee</denomination>
+            <obverse md5="e5f63b885e8d5615821203fc7c6b4bf3">inr/1-rupee/obverse.png</obverse>
+            <reverse md5="8368147f15364a72b8c8cad5286c74b8">inr/1-rupee/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="NLG" name="Netherlands Guilders" obsolete="obsolete">
+        <coin>
+            <region/>
+            <year>1977</year>
+            <name/>
+            <denomination>1 Guilder</denomination>
+            <obverse md5="bab0c6501e4e2f1523174819b14fb31b">nlg/1-guilder-1977/obverse.png</obverse>
+            <reverse md5="2d717df6c14b533261567cec9a68bfbf">nlg/1-guilder-1977/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year>1982</year>
+            <name/>
+            <denomination>1 Guilder</denomination>
+            <obverse md5="efe28b13f44f801d54b78df96e5d2a06">nlg/1-guilder-1982/obverse.png</obverse>
+            <reverse md5="c17fa04e71672dd79af3375927bbf173">nlg/1-guilder-1982/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Rijksdaalder</name>
+            <denomination>2.5 Guilders</denomination>
+            <obverse md5="a85ce3ec4d5fccd524575252caa31146">nlg/rijksdaalder/obverse.png</obverse>
+            <reverse md5="52222054794d90055190b59b09083c58">nlg/rijksdaalder/reverse.png</reverse>
+            <acknowledgement>Angela Lorenz</acknowledgement>
+        </coin>
+    </category>
+    <category code="NOK" name="Norwegian Kroner">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Krone</denomination>
+            <obverse md5="c2f4a7624453d5a59430d8dab7fdaed2">nok/1-kr/obverse.png</obverse>
+            <reverse md5="c1467c1ccd944fa9f44d3954a3993070">nok/1-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>5 Krone</denomination>
+            <obverse md5="0647b11c872335ffa388eeabd50e84ce">nok/5-kr/obverse.png</obverse>
+            <reverse md5="63d3479dbf5ce52d0c542060e770ab0e">nok/5-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>10 Krone</denomination>
+            <obverse md5="a4a62368d5e2df07952dd05b4dc60b29">nok/10-kr/obverse.png</obverse>
+            <reverse md5="afb3869180e7d5634e763e840662a2cf">nok/10-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>20 Krone</denomination>
+            <obverse md5="7e53061fca43b0b3e80a457a0d7714d8">nok/20-kr/obverse.png</obverse>
+            <reverse md5="11146ad0c81fff5c2693601ea5859a17">nok/20-kr/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="PLN" name="Polish Złoty">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Złoty</denomination>
+            <obverse md5="5f04e03be52156e61fb62415901ad675">pln/1-zloty/obverse.png</obverse>
+            <reverse md5="7b2a4848bdb7d1cfc085cb4b0c396c0d">pln/1-zloty/reverse.png</reverse>
+            <acknowledgement>Michal Makowski</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>2 Złoty</denomination>
+            <obverse md5="049253a6166a7d738b2e8519867eae0e">pln/2-zloty/obverse.png</obverse>
+            <reverse md5="19e5ec64c5d8b7f27efcb8a8c6d75d77">pln/2-zloty/reverse.png</reverse>
+            <acknowledgement>Michal Makowski</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>5 Złoty</denomination>
+            <obverse md5="cc10a5c77df62940048bc12f1cfef617">pln/5-zloty/obverse.png</obverse>
+            <reverse md5="0c44803e5ca6e5ad3567e16330a45dcb">pln/5-zloty/reverse.png</reverse>
+            <acknowledgement>Michal Makowski</acknowledgement>
+        </coin>
+    </category>
+    <category code="PTE" name="Portuguese Escudos" obsolete="obsolete">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>5 Escudos</denomination>
+            <obverse md5="4299a108ebdfcdb8cfee0bc06918eeb6">pte/5-escudos/obverse.png</obverse>
+            <reverse md5="ee8bfedc3ccb1f2c50931648b74ea00e">pte/5-escudos/reverse.png</reverse>
+            <acknowledgement/>
+        </coin>
+    </category>
+    <category code="RON" name="Romanian Leu">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>50 Bani</denomination>
+            <obverse md5="38f5294397b1f2eba98341ce3529f4cd">ron/50-bani/obverse.png</obverse>
+            <reverse md5="5c70a72a6e177166f21ce7bb6b3715c8">ron/50-bani/reverse.png</reverse>
+            <acknowledgement>Lucian Barbu</acknowledgement>
+        </coin>
+    </category>
+    <category code="SEK" name="Swedish Kronor">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Krona</denomination>
+            <obverse md5="f31f398b2b95d8fa01147d5088ec0224">sek/1-krona/obverse.png</obverse>
+            <reverse md5="a1cc5dbf2cbd86c751e82e302b3e484c">sek/1-krona/reverse.png</reverse>
+            <acknowledgement>Kricke Sundin</acknowledgement>
+        </coin>
+    </category>
+    <category code="TRY" name="Turkish Lira">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>1 Lira</denomination>
+            <obverse md5="ee9d3e095d99844952586ed2f360e7c8">try/1-lira/obverse.png</obverse>
+            <reverse md5="cda54dae01a572aa3b3c1b6206a1b1ae">try/1-lira/reverse.png</reverse>
+            <acknowledgement>Umut Eroğlu</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>Kuruş</denomination>
+            <obverse md5="93511198cecd223cc5793fb44c8aa5ad">try/50-kurus/obverse.png</obverse>
+            <reverse md5="17a549f89e39062a60c68289098ea7e0">try/50-kurus/reverse.png</reverse>
+            <acknowledgement>Umut Eroğlu</acknowledgement>
+        </coin>
+    </category>
+    <category code="USD" name="United States Dollars">
+        <coin>
+            <region/>
+            <year/>
+            <name>Half-Cent</name>
+            <denomination>0.5¢</denomination>
+            <obverse md5="9af2493327c4e00f732f1d6ab7ddb556">usd/half-cent/obverse.png</obverse>
+            <reverse md5="455279db6578f8800baef1bd556bcf2b">usd/half-cent/reverse.png</reverse>
+            <acknowledgement>Wikipedia</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Penny</name>
+            <denomination>1¢</denomination>
+            <obverse md5="d7b7a2a3f2b579acb91296a97bcae0ee">usd/1-cent/obverse.png</obverse>
+            <reverse md5="e15a167e7b4cedd68b4973351b61d165">usd/1-cent/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Nickel</name>
+            <denomination>5¢</denomination>
+            <obverse md5="525c00513ac7c208ed71a3a1cbfb27bb">usd/5-cent/obverse.png</obverse>
+            <reverse md5="c7c4dc92ff67196c5d7ef03df6b07356">usd/5-cent/reverse.png</reverse>
+            <acknowledgement>Gar Travis</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region/>
+            <year>1913</year>
+            <name>Liberty Head Nickel</name>
+            <denomination>5¢</denomination>
+            <obverse md5="520259c9fd076f68adcde9d6012b67e1">usd/5-cent-1913-liberty-head-nickel/obverse.png</obverse>
+            <reverse md5="907cca1edd09cbaa16a0ea45ee15d429">usd/5-cent-1913-liberty-head-nickel/reverse.png</reverse>
+            <acknowledgement>Dwight Manley and Donn Pearlman</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region/>
+            <year>1935</year>
+            <name>Buffalo Nickel</name>
+            <denomination>5¢</denomination>
+            <obverse md5="7fafcb6bc45aab333afe15cd341e9687">usd/5-cent-1935-buffalo-nickel/obverse.png</obverse>
+            <reverse md5="64ac5c89806228daea026a2ac1e5ce0a">usd/5-cent-1935-buffalo-nickel/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Dime</name>
+            <denomination>10¢</denomination>
+            <obverse md5="5097071d533215af0ee7ba1dae924a4b">usd/10-cent/obverse.png</obverse>
+            <reverse md5="063c55bf34353eb0a03bc719cc9e552e">usd/10-cent/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region>Connecticut</region>
+            <year/>
+            <name>Quarter</name>
+            <denomination>25¢</denomination>
+            <obverse md5="1fe9a1f0be8f4cd00b203853beb0c789">usd/25-cent-connecticut/obverse.png</obverse>
+            <reverse md5="91d3e01ffe4e71c20bcd982ba47a1710">usd/25-cent-connecticut/reverse.png</reverse>
+            <acknowledgement>Tony Morse</acknowledgement>
+        </coin>
+        <coin>
+            <region>Delaware</region>
+            <year/>
+            <name>Quarter</name>
+            <denomination>25¢</denomination>
+            <obverse md5="4798807e05d88ad68a06b357a5bdc61e">usd/25-cent-delaware/obverse.png</obverse>
+            <reverse md5="6c6eba71a2ad900aa2243e08e50797b2">usd/25-cent-delaware/reverse.png</reverse>
+            <acknowledgement>Tony Morse</acknowledgement>
+        </coin>
+        <coin>
+            <region>Georgia</region>
+            <year/>
+            <name>Quarter</name>
+            <denomination>25¢</denomination>
+            <obverse md5="42919bda8a92210d293cbcb6e1508415">usd/25-cent-georgia/obverse.png</obverse>
+            <reverse md5="c3a01fb61eb4b08763d1301048815513">usd/25-cent-georgia/reverse.png</reverse>
+            <acknowledgement>Tony Morse</acknowledgement>
+        </coin>
+        <coin>
+            <region>Maryland</region>
+            <year/>
+            <name>Quarter</name>
+            <denomination>25¢</denomination>
+            <obverse md5="42919bda8a92210d293cbcb6e1508415">usd/25-cent-maryland/obverse.png</obverse>
+            <reverse md5="e9e2d9fd43991d9f13b37fe5a98d38d3">usd/25-cent-maryland/reverse.png</reverse>
+            <acknowledgement>Tony Morse</acknowledgement>
+        </coin>
+        <coin>
+            <region>New Jersey</region>
+            <year/>
+            <name>Quarter</name>
+            <denomination>25¢</denomination>
+            <obverse md5="6bec0a6c75d283bd7e5e172a60b4a33e">usd/25-cent-new-jersey/obverse.png</obverse>
+            <reverse md5="44f66054c98f1c4d6466a83e4386a293">usd/25-cent-new-jersey/reverse.png</reverse>
+            <acknowledgement>Tony Morse</acknowledgement>
+        </coin>
+        <coin>
+            <region>Pennsylvania</region>
+            <year/>
+            <name>Quarter</name>
+            <denomination>25¢</denomination>
+            <obverse md5="141d459070340eedcaa7e7037321fbdc">usd/25-cent-pennsylvania/obverse.png</obverse>
+            <reverse md5="0a0a95b8866cc13ca135abffcb3ee8d4">usd/25-cent-pennsylvania/reverse.png</reverse>
+            <acknowledgement>Tony Morse</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Half Dollar</name>
+            <denomination>50¢</denomination>
+            <obverse md5="f8386655ee18cc88cb1a1021c1cb024e">usd/50-cent/obverse.png</obverse>
+            <reverse md5="cd5e7e1d0d62ae4f3f75c1771651f145">usd/50-cent/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>John Adams</name>
+            <denomination>$1</denomination>
+            <obverse md5="59532982027dd614aea5748496adf32d">usd/1-dollar-adams/obverse.png</obverse>
+            <reverse md5="fe50e25cc25f2a73d6bce238ef11c925">usd/1-dollar-adams/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Thomas Jefferson</name>
+            <denomination>$1</denomination>
+            <obverse md5="acfdf46ed63350c1c863b1a87a256266">usd/1-dollar-jefferson/obverse.png</obverse>
+            <reverse md5="ff7ae37b21731b124a85766a8419baa4">usd/1-dollar-jefferson/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>James Madison</name>
+            <denomination>$1</denomination>
+            <obverse md5="959091aa89aba17c61373ce2be85295c">usd/1-dollar-madison/obverse.png</obverse>
+            <reverse md5="ff7ae37b21731b124a85766a8419baa4">usd/1-dollar-madison/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>George Washington</name>
+            <denomination>$1</denomination>
+            <obverse md5="03d62e992bf606776f6e3f9cbdb44f16">usd/1-dollar-washington/obverse.png</obverse>
+            <reverse md5="ce675d047b052513d4a7a730f3d6b32a">usd/1-dollar-washington/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin>
+            <region/>
+            <year/>
+            <name>Susan B. Anthony</name>
+            <denomination>$1</denomination>
+            <obverse md5="8f037e7c765ad935d724fbf01e7e8dd7">usd/1-dollar-anthony/obverse.png</obverse>
+            <reverse md5="b02ef9e688bb71cbfac8ca014ea79c46">usd/1-dollar-anthony/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+        <coin collectible="collectible">
+            <region/>
+            <year/>
+            <name>American Buffalo 24-Karat Gold Coin</name>
+            <denomination>$50</denomination>
+            <obverse md5="033158515fc56df8a7a5bc8ef10c8af7">usd/50-dollar-gold-buffalo/obverse.png</obverse>
+            <reverse md5="ec1faf58003ca40638d1cdeff2802f5f">usd/50-dollar-gold-buffalo/reverse.png</reverse>
+            <acknowledgement>Carl Cornealy</acknowledgement>
+        </coin>
+    </category>
+    <category code="XCD" name="East Caribbean Dollars">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>$1</denomination>
+            <obverse md5="2abd277307e12d6711fab62f7c4dc883">xcd/1-dollar/obverse.png</obverse>
+            <reverse md5="2306eb28ed9ee62025a1253f6c8a897d">xcd/1-dollar/reverse.png</reverse>
+            <acknowledgement>Karl Eklund and Alwi Wijaya</acknowledgement>
+        </coin>
+    </category>
+    <category code="YUD" name="Yugoslavian Dinar" obsolete="obsolete">
+        <coin>
+            <region/>
+            <year/>
+            <name/>
+            <denomination>20 Para</denomination>
+            <obverse md5="b6eed271bc444b4f61e1440406cced0a">yud/20-para/obverse.png</obverse>
+            <reverse md5="5834b7f17cdf8c156d1ac79fe591e7b1">yud/20-para/reverse.png</reverse>
+            <acknowledgement>Joshua Holman</acknowledgement>
+        </coin>
+    </category>
 </coins>
